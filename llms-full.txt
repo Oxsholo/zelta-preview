@@ -13,44 +13,42 @@
 - Licensed jurisdictions (25): Arkansas, Connecticut, Washington, D.C., Delaware, Florida, Georgia, Iowa, Illinois, Kentucky, Massachusetts, Maryland, Michigan, North Carolina, Nebraska, New Jersey, New York, Ohio, Pennsylvania, South Carolina, Tennessee, Texas, Virginia, Vermont, Wisconsin, West Virginia
 - Completed projects: over 1,000
 - Brands served: +40
-- Projects published on this site: 108 (36 with photography)
+- Projects published on this site: 78 (31 with photography)
 - Sector focus: quick-service restaurants, fast casual, cafes, and commercial tenant fit-outs
 
 ## Where the work is
 
-- New York: 430 awarded and completed projects.
-- New Jersey: 166 awarded and completed projects.
-- Pennsylvania: 40 awarded and completed projects.
-- Connecticut: 15 awarded and completed projects.
-- Florida: 13 awarded and completed projects.
-- North Carolina: 10 awarded and completed projects.
-- Maryland: 8 awarded and completed projects.
-- Delaware: 6 awarded and completed projects.
-- South Carolina: 6 awarded and completed projects.
-- Nebraska: 4 awarded and completed projects.
-- Virginia: 4 awarded and completed projects.
-- Arkansas: 3 awarded and completed projects.
-- West Virginia: 3 awarded and completed projects.
-- Washington, D.C.: 2 awarded and completed projects.
-- Georgia: 2 awarded and completed projects.
-- Iowa: 2 awarded and completed projects.
-- Ohio: 2 awarded and completed projects.
-- Tennessee: 2 awarded and completed projects.
-- Kentucky: 1 awarded and completed project.
-- Massachusetts: 1 awarded and completed project.
-- Michigan: 1 awarded and completed project.
-- Texas: 1 awarded and completed project.
-- Wisconsin: 1 awarded and completed project.
+- New York: 430 projects.
+- New Jersey: 166 projects.
+- Pennsylvania: 40 projects.
+- Connecticut: 15 projects.
+- Florida: 13 projects.
+- North Carolina: 10 projects.
+- Maryland: 8 projects.
+- Delaware: 6 projects.
+- South Carolina: 6 projects.
+- Nebraska: 4 projects.
+- Virginia: 4 projects.
+- Arkansas: 3 projects.
+- West Virginia: 3 projects.
+- Washington, D.C.: 2 projects.
+- Georgia: 2 projects.
+- Iowa: 2 projects.
+- Ohio: 2 projects.
+- Tennessee: 2 projects.
+- Kentucky: 1 project.
+- Massachusetts: 1 project.
+- Michigan: 1 project.
+- Texas: 1 project.
+- Wisconsin: 1 project.
 
 ## Brands
 
-- Dunkin': 39 locations (New Jersey, New York). https://www.zeltadesign.com/brands/dunkin/
-- Taco Bell: 22 locations (New Jersey, New York, Tennessee). https://www.zeltadesign.com/brands/taco-bell/
-- Popeyes: 9 locations (New York, New Jersey). https://www.zeltadesign.com/brands/popeyes/
-- Dave's Hot Chicken: 10 locations (New York, South Carolina, North Carolina, New Jersey). https://www.zeltadesign.com/brands/daves-hot-chicken/
-- Buffalo Wild Wings GO: 4 locations (New York). https://www.zeltadesign.com/brands/buffalo-wild-wings-go/
-- Wendy's: 4 locations (New York, New Jersey). https://www.zeltadesign.com/brands/wendys/
-- Gumption Coffee: 3 locations (New York). https://www.zeltadesign.com/brands/gumption-coffee/
+- Dunkin': 26 locations (New Jersey, New York). https://www.zeltadesign.com/brands/dunkin/
+- Taco Bell: 16 locations (New Jersey, New York, Tennessee). https://www.zeltadesign.com/brands/taco-bell/
+- Popeyes: 7 locations (New York, New Jersey). https://www.zeltadesign.com/brands/popeyes/
+- Dave's Hot Chicken: 9 locations (New York, South Carolina, North Carolina, New Jersey). https://www.zeltadesign.com/brands/daves-hot-chicken/
+- Buffalo Wild Wings GO: 3 locations (New York). https://www.zeltadesign.com/brands/buffalo-wild-wings-go/
 
 ## Projects
 
@@ -270,14 +268,6 @@ Address: 726 Jersey Avenue, Jersey City, NJ.
 
 Source: https://www.zeltadesign.com/project/wendys-726-jersey-avenue/
 
-### Dunkin' - Financial District (4 Cortlandt), NY
-
-Dunkin' in Financial District, New York was designed by Zelta Design. This urban Dunkin’ uses a counter layout for takeaway orders with space for customer seating.
-
-Address: 4 Cortlandt, New York, NY 10007.
-
-Source: https://www.zeltadesign.com/project/dunkin-4-cortlandt/
-
 ### Dunkin' - Carlstadt, NJ
 
 Dunkin' in Carlstadt, New Jersey was designed by Zelta Design. The interior combines Dunkin’ brand colors with customer seating and a layout for quick-service orders.
@@ -318,22 +308,6 @@ Address: 1592 Westchester Avenue, Bronx, NY 10472.
 
 Source: https://www.zeltadesign.com/project/dunkin-1592-westchester-avenue/
 
-### Dunkin' - Bronx (2 E Kingsbridge), NY
-
-Dunkin' in Bronx, New York was designed by Zelta Design. This Bronx location combines a compact service area with customer seating.
-
-Address: 2 E Kingsbridge Ave, Bronx, NY 10468.
-
-Source: https://www.zeltadesign.com/project/dunkin-2-e-kingsbridge/
-
-### Dunkin' - Schaghticoke, NY
-
-Dunkin' in Schaghticoke, New York was designed by Zelta Design. The Schaghticoke location includes a quick-service counter and a customer seating area.
-
-Address: 6 Main Street, Schaghticoke, NY 12154.
-
-Source: https://www.zeltadesign.com/project/dunkin-6-main-street/
-
 ### Dunkin' - Guilderland, NY
 
 Dunkin' in Guilderland, New York was designed by Zelta Design. The Star Plaza design includes customer seating and a drive-thru addition.
@@ -350,14 +324,6 @@ Address: 33 New Scotland Avenue, Albany, NY 12208.
 
 Source: https://www.zeltadesign.com/project/jimmy-johns-33-new-scotland-avenue/
 
-### Buffalo Wild Wings GO - Albany, NY
-
-Buffalo Wild Wings GO in Albany, New York was designed by Zelta Design. This compact Albany location is arranged for takeout and delivery, with digital menu boards at the service area.
-
-Address: 33 New Scotland Avenue, Albany, NY 12208.
-
-Source: https://www.zeltadesign.com/project/buffalo-wild-wings-go-33-new-scotland-avenue/
-
 ### Buffalo Wild Wings GO - Schenectady, NY
 
 Buffalo Wild Wings GO in Schenectady, New York was designed by Zelta Design. This Schenectady location is arranged for takeout and delivery, with limited customer seating.
@@ -373,14 +339,6 @@ Dunkin' in Times Square, New York was designed by Zelta Design. This project is 
 Address: 1501 Broadway, New York, NY 10036.
 
 Source: https://www.zeltadesign.com/project/dunkin-1501-broadway/
-
-### Pizza Hut - Queens, NY
-
-Pizza Hut in Queens, New York was designed by Zelta Design. The Queens location focuses on takeout and delivery, with a waiting area for customers collecting orders.
-
-Address: 84-23 37th Avenue, Queens, NY 11372.
-
-Source: https://www.zeltadesign.com/project/pizza-hut-84-23-37th-avenue/
 
 ### Dunkin' - Bronx (331 E 138th Street), NY
 
@@ -422,22 +380,6 @@ Address: 275 Madison Avenue, New York, NY 10016.
 
 Source: https://www.zeltadesign.com/project/dunkin-275-madison-avenue/
 
-### Wendy's - Clinton, NJ
-
-Wendy's in Clinton, New Jersey was designed by Zelta Design. This 1,498-square-foot Wendy’s in Clinton’s Walmart Plaza includes a drive-thru lane.
-
-Address: 39 Walmart Plaza, Clinton, NJ 08809. Floor area: 1,498 sq ft. Scope: drive-thru.
-
-Source: https://www.zeltadesign.com/project/wendys-39-wal-mart-plaza/
-
-### Dunkin - Newark, NJ
-
-Dunkin' in Newark, New Jersey was designed by Zelta Design. This McCarter Highway location includes a drive-thru lane.
-
-Address: 1393-1399 McCarter Hwy, Newark, NJ 07104. Scope: drive-thru.
-
-Source: https://www.zeltadesign.com/project/dunkin-1393-mccarter-highway/
-
 ### Taco Bell - North Arlington, NJ
 
 Taco Bell in North Arlington, New Jersey was designed by Zelta Design. This 1,548-square-foot Taco Bell in a Schuyler Avenue shopping plaza includes a customer dining room.
@@ -445,22 +387,6 @@ Taco Bell in North Arlington, New Jersey was designed by Zelta Design. This 1,54
 Address: 15 Schuyler Ave, North Arlington, NJ 07031. Floor area: 1,548 sq ft.
 
 Source: https://www.zeltadesign.com/project/taco-bell-15-schuyler-avenue/
-
-### Dunkin' - Manhattan (203 205 W 34th Street), NY
-
-Dunkin' in New York was designed by Zelta Design. This West 34th Street location includes a street-facing storefront and a service area sized for busy periods.
-
-Address: 203 West 34th Street, New York, NY 10123.
-
-Source: https://www.zeltadesign.com/project/dunkin-203-205-w-34th-street/
-
-### Dunkin' - SoHo, NY
-
-Dunkin' in SoHo, New York was designed by Zelta Design. Dunkin’ storefront project on Broadway in SoHo.
-
-Address: 340 Broadway, New York, NY 10013.
-
-Source: https://www.zeltadesign.com/project/dunkin-340-broadway/
 
 ### Dunkin’/Baskin Robbins - Bronx, NY
 
@@ -477,14 +403,6 @@ Insomnia Cookies in Bronx, New York was designed by Zelta Design. This Fordham R
 Address: 377 E Fordham Road, Bronx, NY 10458.
 
 Source: https://www.zeltadesign.com/project/insomnia-cookies-377-e-fordham-road/
-
-### Insomnia Cookies - Greenwich Village, NY
-
-Insomnia Cookies in Greenwich Village, New York was designed by Zelta Design. This Greenwich Village bakery uses large storefront windows to bring light into the interior.
-
-Address: 283 Bleeker Street, New York, NY 10014.
-
-Source: https://www.zeltadesign.com/project/insomnia-cookies-283-bleeker-street/
 
 ### Taco Bell - Staten Island, NY
 
@@ -542,14 +460,6 @@ Address: 764 Sunrise Hwy, Baldwin, NY 11510. Program: Dunkin OMNI. Scope: remode
 
 Source: https://www.zeltadesign.com/project/dunkin-764-sunrise-highway/
 
-### Dunkin' - Bronx, NY
-
-Dunkin' in Bronx, New York was designed by Zelta Design. Remodel of an existing Dunkin which features the latest Omni equipment and finishes throughout.
-
-Address: 1374 Metropolitan Ave, Bronx, NY 10462. Program: Dunkin OMNI. Scope: remodel.
-
-Source: https://www.zeltadesign.com/project/dunkin-1374-metropolitan-avenue/
-
 ### Dunkin’ - Rockville Centre, NY
 
 Dunkin' in Rockville Centre, New York was designed by Zelta Design. Remodel of an existing Dunkin featuring the latest NextGen equipment and finishes throughout with the addition of a Walk-Up window for easy customer pick up. Plans designed by third party architect, built by Zelta Build.
@@ -581,14 +491,6 @@ Dunkin' in Staten Island, New York was designed by Zelta Design. Located nearby 
 Address: 180 West Service Road, Staten Island, NY 10314. Program: Dunkin NextGen. Scope: remodel, drive-thru.
 
 Source: https://www.zeltadesign.com/project/dunkin-180-west-service-road/
-
-### Dunkin’ - Financial District, NY
-
-Dunkin' in Financial District, New York was designed by Zelta Design. Located in the Oculus Center in New York near the 9/11 Memorial and One World Trade Center. The Dunkin’ features an OMNI warm palette concept and layout with a slatted ceiling.
-
-Address: 185 Greenwich Street, LL2440, New York, NY 10006. Program: Dunkin OMNI.
-
-Source: https://www.zeltadesign.com/project/dunkin-185-greenwich-street/
 
 ### Dunkin’ / Baskin-Robbins - East Harlem, NY
 
@@ -662,14 +564,6 @@ Address: 260 E 161st St, Bronx, NY 10451. Program: Dunkin NextGen. Scope: remode
 
 Source: https://www.zeltadesign.com/project/dunkin-260-e-161st-street/
 
-### Dave’s Hot Chicken - Brooklyn (1192 Fulton Avenue), NY
-
-Dave's Hot Chicken in Brooklyn, New York was designed by Zelta Design. Located in Brooklyn, this space bodes vibrant and unique artwork throughout, with seating for 16 guests.
-
-Address: 1192 Fulton Avenue, Brooklyn, NY. Seats: 16.
-
-Source: https://www.zeltadesign.com/project/daves-hot-chicken-1192-fulton-avenue/
-
 ### Caroline's Donuts - Upper East Side, NY
 
 Caroline's Donuts in Upper East Side, New York was designed by Zelta Design. Located near Central Park in the Upper East Side, this space provides an open concept with a rustic interior along with the smell of their fresh baked goods, offers a welcoming vibe with some indoor and outdoor seating.
@@ -734,30 +628,6 @@ Address: 162 Route 4, Paramus, NJ 07652. Seats: 41. Scope: ground-up, drive-thru
 
 Source: https://www.zeltadesign.com/project/popeyes-2/
 
-### Dunkin' - Financial District, NY
-
-Dunkin' in Financial District, New York was designed by Zelta Design. Located in the Oculus Center in New York. The Oculus is a spectacular piece of architecture, with elegance inside and out. Near the 9/11 memorial and One Trade Center. The Dunkin' features an OMNI layout with a slatted ceiling to mimic the design elements just outside the space. Be sure to stop in on your next trip to the Oculus Center.
-
-Address: 185 Greenwich Street, LL5125, New York, NY 10006. Program: Dunkin OMNI.
-
-Source: https://www.zeltadesign.com/project/dunkin-2/
-
-### Taco Bell - North Brunswick, NJ
-
-Taco Bell in North Brunswick, New Jersey was designed by Zelta Design. Located right along US Highway 130, a convenient location for guests to order in or take out. The interior dining room seats up to 40 guests.
-
-Address: 2720 Route 130, North Brunswick, NJ 08902. Seats: 40.
-
-Source: https://www.zeltadesign.com/project/taco-bell-3/
-
-### Wendy's - Passaic, NJ
-
-Wendy's in Passaic, New Jersey was designed by Zelta Design. This ground-up Wendy's location features the new sleek Wendy's design with a 278 sq.ft. outdoor dining patio space. The modern exterior continues on the interior design with an exposed ceiling and artwork that prides on the Passaic, NJ location.
-
-Address: 449 Main Avenue, Passaic, NJ 07055. Floor area: 278 sq ft. Scope: ground-up.
-
-Source: https://www.zeltadesign.com/project/wendys/
-
 ### Taco Bell - Staten Island, NY
 
 Taco Bell in Staten Island, New York was designed by Zelta Design. Situated at the end of a strip mall plaza, this Taco Bell has high ceilings and a roomy seating area for 20 guests.
@@ -790,14 +660,6 @@ Address: 94-05 Rockaway Boulevard, Jamaica, NY 11417. Program: Dunkin OMNI. Scop
 
 Source: https://www.zeltadesign.com/project/dunkin-baskin-robbins/
 
-### Dunkin' - Mount Vernon, NY
-
-Dunkin' in Mount Vernon, New York was designed by Zelta Design. This OMNI location stands proudly on the corner of West Prospect Avenue and Gramatan Avenue in Mt. Vernon, New York.
-
-Address: 9 West Prospect Avenue, Mount Vernon, NY 10550. Program: Dunkin OMNI.
-
-Source: https://www.zeltadesign.com/project/dunkin/
-
 ### Popeyes - Times Square, NY
 
 Popeyes in Times Square, New York was designed by Zelta Design. Located in the heart of Times Square, this Popeyes flagship location has many unique elements. The building's exterior features a modern and sleek design with a large glass façade that would allow passersby to see inside. When arriving to the second floor (either by stairs or an elevator) guests are greeted by a spacious and open floor plan with ample seating options. The restaurant features a mix of booths and tables, as well as a bar-style seating area. To ensure efficient service, the restaurant has a state-of-the-art food transporter system that seamlessly transports food from the kitchen to the second floor seating area of the restaurant. The building is designed to maximize efficiency and customer satisfaction while also offering a visually stunning dining experience that will leave a lasting impression on guests.
@@ -813,107 +675,3 @@ Dave's Hot Chicken in Brooklyn, New York was designed by Zelta Design. Another D
 Address: 418 86th Street, Brooklyn, NY 11209.
 
 Source: https://www.zeltadesign.com/project/daves-hot-chicken/
-
-### Dippin’ Dots & Doc Popcorn - Brooklyn, NY
-
-Dippin’ Dots & Doc Popcorn Brooklyn in Brooklyn, New York was designed by Zelta Design. The company's second brick & mortar location in NYC is in the heart of downtown Brooklyn. With the fun hexagon floor tiles and bright colored walls this location is sure to be an eye catcher.
-
-Address: 415 Fulton Street, Brooklyn, NY 11201.
-
-Source: https://www.zeltadesign.com/project/dippin-dots-doc-popcorn-brooklyn/
-
-### Taco Bell Cantina - Bronx, NY
-
-Taco Bell in Bronx, New York was designed by Zelta Design. When our client showed us this space, we immediately hit the drawings boards to come up with the perfect way to transform the space into a one of a kind Taco Bell Cantina. The restaurant features a double-height space at the entry and a seating area on the mezzanine. Several chandeliers hang from the ceiling and a large double-height mural spans from the first floor to the mezzanine level. The mezzanine level features traditional seating as well as an area with soft seating and a TV for a cozier feel to catch up with friends and family.
-
-Address: 361 East Fordham Road, Bronx, NY 10458. Program: Taco Bell Cantina.
-
-Source: https://www.zeltadesign.com/project/taco-bell-cantina-bronx/
-
-### Dunkin' - Brooklyn, NY
-
-Dunkin' in Brooklyn, New York was designed by Zelta Design. When our client reached out about moving his existing location across the street to this corner, we were thrilled. The new location provided many opportunities to increase visibility and modernize the store. We opened up new windows along the side of the building and gave the interior a complete overhaul to the Next Gen image. For the exterior, we love the wrap-around curved corner and what we were able to do with the signage.
-
-Address: 418 Avenue P, Brooklyn, NY 11223. Program: Dunkin NextGen.
-
-Source: https://www.zeltadesign.com/project/dunkin-brooklyn/
-
-### Taco Bell - Coney Island, NY
-
-Taco Bell in Coney Island, Brooklyn, New York was designed by Zelta Design. Opposite the world famous Luna Park in Coney Island, Brooklyn, this Taco Bell Cantina serves up ice cold alcoholic beverages to quench your thirst during the summer and the rest of the year. Situated at the corner of the block, this location is eye catching from multiple directions.
-
-Address: 1047 Surf Ave, Brooklyn, NY 11224. Program: Taco Bell Cantina.
-
-Source: https://www.zeltadesign.com/project/taco-bell-coney-island/
-
-### Dunkin' - Sea Cliff, NY
-
-Dunkin' in Sea Cliff, New York was designed by Zelta Design. Our client had a Dunkin’ in the same shopping center, but it was in the middle of the plaza. When the corner space became available, we knew we had to do something special. Opening windows on the street side of the building and completely transforming the exterior was an immediate thought. The outcome of this location really pleased everyone involved, including the locals in town.
-
-Address: 347 Glen Cove Avenue, Sea Cliff, NY 11579.
-
-Source: https://www.zeltadesign.com/project/dunkin-sea-cliff/
-
-### Taco Bell Cantina - Inwood, NY
-
-Taco Bell in Inwood, New York was designed by Zelta Design. Tall ceilings and expansive windows help bring natural light into this Cantina, located in the Inwood section of Manhattan. A custom mural on the brick wall brings some local flare into this restaurant.
-
-Address: 560 West 207th Street, New York, NY 10034. Program: Taco Bell Cantina.
-
-Source: https://www.zeltadesign.com/project/taco-bell-cantina-manhattan/
-
-### Dunkin' - Wappingers Falls, NY
-
-Dunkin' in Wappingers Falls, New York was designed by Zelta Design. Situated in Wappingers Falls, New York, this location is a transformation of an old bank. The drive-thru window was relocated to the opposite side of the building and we extended the parapet framing to give more height to the building. The town did not want a contemporary look so we created a design with faux dormers, masonry wainscot and siding to suit their needs.
-
-Address: 241 Myers Corners Rd, Wappingers Falls, NY 12590. Scope: drive-thru.
-
-Source: https://www.zeltadesign.com/project/dunkin-wappingers-falls/
-
-### Taco Bell - South Brunswick, NJ
-
-Taco Bell in South Brunswick, New Jersey was designed by Zelta Design. At this ground-up Taco Bell location, we were challenged by our client to create a different color palette and feel than the typical prototype location. This location has larger windows to flood the dining room with natural light and a slightly different exterior design in terms of artwork, lighting and colors.
-
-Address: 4041 Route 1, South Brunswick, NJ 08852. Scope: ground-up.
-
-Source: https://www.zeltadesign.com/project/taco-bell-south-brunswick/
-
-### Popeyes - Brooklyn, NY
-
-Popeyes in Brooklyn, New York was designed by Zelta Design. Located in the Brownsville part of Brooklyn, our team turned an old Checkers location into a new NOLA designed Popeyes restaurant. Featuring the latest in signage, finishes and branding, this Popeyes serves up all of your favorite meals.
-
-Address: 1101 Rutland Road, Brooklyn, NY 11212.
-
-Source: https://www.zeltadesign.com/project/popeyes-brooklyn/
-
-### Popeyes - Queens, NY
-
-Popeyes in Queens, New York was designed by Zelta Design. Situated in a shopping plaza, this inline location brings a Popeyes location to Jamaica, New York.
-
-Address: 107-20 Atlantic Avenue, Queens, NY 11416.
-
-Source: https://www.zeltadesign.com/project/popeyes-queens/
-
-### Taco Bell - Midtown, NY
-
-Taco Bell in Midtown, New York was designed by Zelta Design. At the intersection of Lexington Avenue and 57th Street, this two story Taco Bell location is a beautiful location to enjoy your favorite menu items. From the minimalist first floor, to the large dining room on the second floor with floor to ceiling windows, this is a location you must check out!
-
-Address: 707 Lexington Ave, New York, NY 10022.
-
-Source: https://www.zeltadesign.com/project/taco-bell-midtown/
-
-### Gumption Coffee - Industry City, NY
-
-Gumption Coffee in Industry City, Brooklyn, New York was designed by Zelta Design. Gumption Coffee believes that coffee is more than a drink. They are confident the beverage can be a catalyst to transforming not only your day, but your mindset as well. “A cup of Gumption makes things better. It makes things happen.” This is the first location of Australian-born company Gumption Coffee. This roastery based in Industry City in Brooklyn is in the middle of all the hustle and bustle of this borough. Our favorite design element of this location is the faux roll-down garage door that offers incredible light while you sip your coffee.
-
-Address: 168 39th Street, Brooklyn, NY 11232.
-
-Source: https://www.zeltadesign.com/project/gumption-industry-city/
-
-### Satori Laser - Financial District, NY
-
-Satori Laser Financial District in Financial District, New York was designed by Zelta Design. Our design plan for Satori Laser included a gorgeous reception desk and large waiting room windows to greet guests as they step into the space. The space also includes 3 treatment rooms and an office for staff.
-
-Address: 173 Broadway, Second Floor, New York, NY 10007.
-
-Source: https://www.zeltadesign.com/project/satori-laser-financial-district/
