@@ -12,14 +12,14 @@
 - Licensed jurisdictions (25): Arkansas, Connecticut, Washington, D.C., Delaware, Florida, Georgia, Iowa, Illinois, Kentucky, Massachusetts, Maryland, Michigan, North Carolina, Nebraska, New Jersey, New York, Ohio, Pennsylvania, South Carolina, Tennessee, Texas, Virginia, Vermont, Wisconsin, West Virginia
 - Completed projects: over 1,000
 - Brands served: +40
-- Projects published on this site: 78 (31 with photography)
+- Projects published on this site: 137 (119 with photography)
 - Sector focus: quick-service restaurants, fast casual, cafes, and commercial tenant fit-outs
 
 ## Core pages
 
 - [Home](https://www.zeltadesign.com/): what the firm does and the headline numbers.
-- [Portfolio](https://www.zeltadesign.com/portfolio/): all 78 published projects, indexed by brand and state.
-- [Brands](https://www.zeltadesign.com/brands/): the 5 brands with a full project portfolio on this site.
+- [Portfolio](https://www.zeltadesign.com/portfolio/): all 137 published projects, indexed by brand and state.
+- [Brands](https://www.zeltadesign.com/brands/): the 6 brands with a full project portfolio on this site.
 - [Where We Work](https://www.zeltadesign.com/where-we-work/): the 25 licensed jurisdictions and project counts by state.
 - [Capabilities](https://www.zeltadesign.com/services/): services, process, and project enquiries.
 - [About](https://www.zeltadesign.com/about/): the firm, the team and how projects run.
@@ -28,22 +28,27 @@
 
 ## Brand portfolios
 
-- [Dunkin'](https://www.zeltadesign.com/brands/dunkin/): 26 project locations across 2 states.
-- [Taco Bell](https://www.zeltadesign.com/brands/taco-bell/): 16 project locations across 3 states.
-- [Popeyes](https://www.zeltadesign.com/brands/popeyes/): 7 project locations across 2 states.
-- [Dave's Hot Chicken](https://www.zeltadesign.com/brands/daves-hot-chicken/): 9 project locations across 4 states.
+- [Dunkin'](https://www.zeltadesign.com/brands/dunkin/): 55 project locations across 5 states.
+- [Taco Bell](https://www.zeltadesign.com/brands/taco-bell/): 29 project locations across 4 states.
+- [Popeyes](https://www.zeltadesign.com/brands/popeyes/): 9 project locations across 3 states.
+- [Dave's Hot Chicken](https://www.zeltadesign.com/brands/daves-hot-chicken/): 12 project locations across 4 states.
 - [Buffalo Wild Wings GO](https://www.zeltadesign.com/brands/buffalo-wild-wings-go/): 3 project locations across 1 states.
+- [Wendy's](https://www.zeltadesign.com/brands/wendys/): 3 project locations across 2 states.
 
 ## Brand and state portfolios
 
-- [Dunkin' in New York](https://www.zeltadesign.com/brands/dunkin/new-york/): 22 locations.
-- [Taco Bell in New Jersey](https://www.zeltadesign.com/brands/taco-bell/new-jersey/): 9 locations.
-- [Dave's Hot Chicken in New York](https://www.zeltadesign.com/brands/daves-hot-chicken/new-york/): 6 locations.
-- [Popeyes in New York](https://www.zeltadesign.com/brands/popeyes/new-york/): 6 locations.
-- [Taco Bell in New York](https://www.zeltadesign.com/brands/taco-bell/new-york/): 6 locations.
-- [Dunkin' in New Jersey](https://www.zeltadesign.com/brands/dunkin/new-jersey/): 4 locations.
+- [Dunkin' in New York](https://www.zeltadesign.com/brands/dunkin/new-york/): 44 locations.
+- [Taco Bell in New Jersey](https://www.zeltadesign.com/brands/taco-bell/new-jersey/): 14 locations.
+- [Taco Bell in New York](https://www.zeltadesign.com/brands/taco-bell/new-york/): 12 locations.
+- [Dunkin' in New Jersey](https://www.zeltadesign.com/brands/dunkin/new-jersey/): 8 locations.
+- [Dave's Hot Chicken in New York](https://www.zeltadesign.com/brands/daves-hot-chicken/new-york/): 7 locations.
+- [Popeyes in New York](https://www.zeltadesign.com/brands/popeyes/new-york/): 7 locations.
 - [Buffalo Wild Wings GO in New York](https://www.zeltadesign.com/brands/buffalo-wild-wings-go/new-york/): 3 locations.
+- [Dave's Hot Chicken in South Carolina](https://www.zeltadesign.com/brands/daves-hot-chicken/south-carolina/): 2 locations.
 - [PopUp Bagels in Florida](https://www.zeltadesign.com/brands/popup-bagels/florida/): 2 locations.
+- [Wendy's in New Jersey](https://www.zeltadesign.com/brands/wendys/new-jersey/): 2 locations.
+- [Empanada Mama in New York](https://www.zeltadesign.com/brands/empanada-mama/new-york/): 2 locations.
+- [Dave's Hot Chicken in New Jersey](https://www.zeltadesign.com/brands/daves-hot-chicken/new-jersey/): 2 locations.
 - [Gumption Coffee in New York](https://www.zeltadesign.com/brands/gumption-coffee/new-york/): 2 locations.
 
 ## Full detail

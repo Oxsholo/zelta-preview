@@ -13,13 +13,13 @@
 - Licensed jurisdictions (25): Arkansas, Connecticut, Washington, D.C., Delaware, Florida, Georgia, Iowa, Illinois, Kentucky, Massachusetts, Maryland, Michigan, North Carolina, Nebraska, New Jersey, New York, Ohio, Pennsylvania, South Carolina, Tennessee, Texas, Virginia, Vermont, Wisconsin, West Virginia
 - Completed projects: over 1,000
 - Brands served: +40
-- Projects published on this site: 78 (31 with photography)
+- Projects published on this site: 137 (119 with photography)
 - Sector focus: quick-service restaurants, fast casual, cafes, and commercial tenant fit-outs
 
 ## Where the work is
 
-- New York: 418 projects.
-- New Jersey: 134 projects.
+- New York: 419 projects.
+- New Jersey: 135 projects.
 - Pennsylvania: 40 projects.
 - Connecticut: 15 projects.
 - Florida: 13 projects.
@@ -43,11 +43,12 @@
 
 ## Brands
 
-- Dunkin': 26 locations (New Jersey, New York). https://www.zeltadesign.com/brands/dunkin/
-- Taco Bell: 16 locations (New Jersey, New York, Tennessee). https://www.zeltadesign.com/brands/taco-bell/
-- Popeyes: 7 locations (New York, New Jersey). https://www.zeltadesign.com/brands/popeyes/
-- Dave's Hot Chicken: 9 locations (New York, South Carolina, North Carolina, New Jersey). https://www.zeltadesign.com/brands/daves-hot-chicken/
+- Dunkin': 55 locations (New Jersey, New York, Pennsylvania, Connecticut, North Carolina). https://www.zeltadesign.com/brands/dunkin/
+- Taco Bell: 29 locations (New Jersey, New York, Maryland, Tennessee). https://www.zeltadesign.com/brands/taco-bell/
+- Popeyes: 9 locations (Connecticut, New York, New Jersey). https://www.zeltadesign.com/brands/popeyes/
+- Dave's Hot Chicken: 12 locations (New York, South Carolina, North Carolina, New Jersey). https://www.zeltadesign.com/brands/daves-hot-chicken/
 - Buffalo Wild Wings GO: 3 locations (New York). https://www.zeltadesign.com/brands/buffalo-wild-wings-go/
+- Wendy's: 3 locations (New York, New Jersey). https://www.zeltadesign.com/brands/wendys/
 
 ## Projects
 
@@ -61,7 +62,7 @@ Source: https://www.zeltadesign.com/project/daves-hot-chicken-white-plains/
 
 ### Dave's Hot Chicken - Sumter, SC
 
-Dave's Hot Chicken in Sumter, South Carolina was designed by Zelta Design. This freestanding restaurant includes a drive-thru and covered patio. The dining room combines full-height murals, exposed red ductwork and wood tabletops. The layout separates dine-in, pickup and drive-thru orders.
+Dave's Hot Chicken in Sumter, South Carolina was designed by Zelta Design. Freestanding and set back from the road with its own parking field, this Dave's Hot Chicken in Sumter includes a drive-thru lane and a covered patio. Wood-toned paneling and red trim wrap the exterior between full-height murals, while the dining room pairs the same murals with exposed red ductwork and wood tabletops. A separate pickup shelf by the side door keeps mobile orders apart from the counter. The layout separates dine-in, walk-up pickup and drive-thru orders, so three types of customers move through without crossing paths.
 
 Address: 1135 Broad St., Sumter, SC 29150. Floor area: 3,110 sq ft.
 
@@ -69,7 +70,7 @@ Source: https://www.zeltadesign.com/project/daves-hot-chicken-sumter/
 
 ### Dave's Hot Chicken - Greenville, NC
 
-Dave's Hot Chicken in Greenville, North Carolina was designed by Zelta Design. Building murals and a patio with red shade sails identify this Greenville Plaza restaurant. Inside, murals continue across the walls and ceiling. The layout connects entry, ordering and pickup, with a service opening to the kitchen.
+Dave's Hot Chicken in Greenville, North Carolina was designed by Zelta Design. Red shade sails cover the patio at this Dave's Hot Chicken, a freestanding building in the Greenville Plaza shopping center. A large graphic mural wraps the entry tower above the door, continuing across interior walls and the ceiling inside. Red tables and chairs fill both the patio and dining room, and a service opening connects the ordering counter directly to the kitchen. The layout keeps entry, ordering and pickup in a single sequence, moving takeaway customers through quickly while patio diners stay clear of the line.
 
 Address: 114 Red Banks Road, Greenville, NC 27858. Floor area: 2,207 sq ft.
 
@@ -77,7 +78,7 @@ Source: https://www.zeltadesign.com/project/daves-hot-chicken-greenville/
 
 ### PopUp Bagels - Winter Park, FL
 
-PopUp Bagels in Winter Park, Florida was designed by Zelta Design. This South Orlando Avenue storefront combines an open bagel counter, checkerboard flooring and wood merchandising displays. The compact layout accommodates ordering, pickup and retail, with yellow stools along the sidewalk.
+PopUp Bagels in Winter Park, Florida was designed by Zelta Design. PopUp Bagels' Winter Park shop occupies a freestanding building on South Orlando Avenue, wrapped in white stucco with a corner glass storefront. A black-and-white checkerboard floor and black ceiling set off a photo-collage wall of customers near the register, with a disco ball and a director's chair marking a small waiting nook by the window. Yellow stools line the sidewalk outside for grab-and-go customers, keeping the 953-square-foot interior focused on ordering, pickup, and retail rather than seating.
 
 Address: 646 South Orlando Avenue, Winter Park, FL 32789. Floor area: 953 sq ft.
 
@@ -85,7 +86,7 @@ Source: https://www.zeltadesign.com/project/popup-bagels-winter-park/
 
 ### PopUp Bagels - Rockledge, FL
 
-PopUp Bagels in Rockledge, Florida was designed by Zelta Design. This retail location uses black awnings, script signage and yellow stools at the storefront. Inside, checkerboard flooring and hand-lettered graphics surround a counter that separates the ordering queue from pickup. Windows on two sides bring daylight into the space.
+PopUp Bagels in Rockledge, Florida was designed by Zelta Design. At 2105 Viera Boulevard in Rockledge, PopUp Bagels takes an inline bay next to Cava beneath a black awning and gray lap siding. The 1,167-square-foot interior repeats the brand's black-and-white checkerboard floor and photo-collage wall, this time alongside a ribbed black counter with a glowing script logo, white subway tile behind the kitchen pass, and a chalkboard menu listing bagels and schmears. Yellow stools out front give walk-up customers somewhere to wait.
 
 Address: 2105 Viera Boulevard, Rockledge, FL 32955. Floor area: 1,167 sq ft.
 
@@ -155,9 +156,481 @@ Address: 2046 Green Acres Mall, Valley Stream, NY 11581-1545. Floor area: 811 sq
 
 Source: https://www.zeltadesign.com/project/wendys-valley-stream/
 
+### Dunkin' - World Trade Center, NY
+
+Dunkin' in World Trade Center, New York was designed by Zelta Design. Inside the Oculus at the World Trade Center transit hub, this Dunkin' sits on a curved corner storefront between the concourse's stone columns, steps from retail traffic. The plan is a compact kiosk with no seating, built for pass-through commuters. We used a floor-to-ceiling curved glass front, warm wood-tone tile behind the counter, and an orange light band over the pastry case to keep the brand visible from both directions of the walkway. Customers can see the full donut case and order the moment they step off the escalator.
+
+Address: 185 Greenwich Street LL2440, New York, NY 10006.
+
+Source: https://www.zeltadesign.com/project/dunkin-oculus-world-trade-center/
+
+### Dunkin' - Lower Manhattan, NY
+
+Dunkin' in Lower Manhattan, Manhattan, New York was designed by Zelta Design. Set into a brick building on lower Broadway, this Dunkin' takes a narrow storefront bay between neighboring retail, with a single white sign band above the entrance. The tight footprint runs coffee and pastry service without a dining area, built around foot traffic on the block. Inside, orange accent lighting and a wall graphic mark the borough by name over a straightforward wood-tone counter. It is built for the walk-up order and go, not a sit-down stop.
+
+Address: 336 Broadway, New York, NY.
+
+Source: https://www.zeltadesign.com/project/dunkin-336-broadway/
+
+### Dave's Hot Chicken - Bedford-Stuyvesant, NY
+
+Dave's Hot Chicken in Bedford-Stuyvesant, Brooklyn, New York was designed by Zelta Design. This Dave's Hot Chicken occupies a ground-floor storefront in a red-brick walk-up on Fulton Street in Bedford-Stuyvesant, Brooklyn, between a pizzeria and a shuttered retail bay. A swirling multicolor mural covers the black storefront glass and doorway, giving the narrow entrance a bold identity against the older facade. Inside, red stool seating sits near exposed red ductwork threading across the ceiling, keeping the small dining area close to the order counter for fast pickup on a busy commercial block.
+
+Address: 1192 Fulton Street, Brooklyn, NY 11216.
+
+Source: https://www.zeltadesign.com/project/daves-hot-chicken-1192-fulton-street/
+
+### Dave's Hot Chicken - Florence, SC
+
+Dave's Hot Chicken in Florence, South Carolina was designed by Zelta Design. Set at a corner site along West Palmetto Street in Florence, this freestanding Dave's Hot Chicken has its own parking and a covered patio wrapping the building. A continuous red neon band traces the roofline above graphic murals, while glass storefronts wrap two sides of the dining room so red patio seating is visible from the road at night. Inside, exposed red ductwork and a wraparound counter keep ordering and pickup compact, so the drive-by visibility and quick service work together for a shopping-center location.
+
+Address: 1923 West Palmetto Street, Florence, SC 29501.
+
+Source: https://www.zeltadesign.com/project/daves-hot-chicken-florence/
+
+### Chopsticks Charm Noodle Bar - Edison, NJ
+
+Chopsticks Charm Noodle Bar in Edison, New Jersey was designed by Zelta Design. On Amboy Avenue in Edison, Chopsticks Charm Noodle Bar fills a storefront wrapped floor to ceiling in black-and-white line drawings of city streets and trees. A sculptural white tree rises through the center of a round communal table ringed by matching monochrome chairs, with faceted maneki-neko cat figures perched along a mirrored shelf near the open kitchen pass. The hand-drawn mural and sculptural centerpiece turn a single dining room into a destination rather than a simple counter stop.
+
+Address: 1199 Amboy Avenue, Edison, NJ.
+
+Source: https://www.zeltadesign.com/project/chopsticks-charm-edison/
+
+### Pizza Hut - Jackson Heights, NY
+
+Pizza Hut in Jackson Heights, Flushing, New York was designed by Zelta Design. Pizza Hut's Jackson Heights location wraps around a curved brick corner at 84-23 37th Avenue, with a black storefront band and the red-roof logo lit above the glass. Inside, exposed brick and a wood-panel counter face a small wall of framed pizza and lifestyle photography, with a couple of chairs for anyone waiting on an order. The compact footprint and lack of a dining room keep the space built for pickup and delivery rather than sit-down service.
+
+Address: 84-23 37th Avenue, Flushing, NY 11372.
+
+Source: https://www.zeltadesign.com/project/pizza-hut-jackson-heights/
+
+### Office Fit-Out - Midtown, NY
+
+Office Fit-Out in Midtown, Manhattan, New York was designed by Zelta Design. On East 45th Street in Midtown Manhattan, this office fit-out turns a mid-rise floor into private offices and open desking behind glass partition walls. Exposed brick walls and ductwork stay visible throughout, paired with black leather club chairs, glass-top desks, and framed black-and-white city photography that plays off the exposed masonry. Felt privacy screens divide the open desking area from the glass-fronted offices, giving the real estate company a mix of private meeting space and collaborative desks within the same floor.
+
+Address: 9 East 45th Street, New York, NY.
+
+Source: https://www.zeltadesign.com/project/office-9-east-45th-street/
+
+### Dunkin' - Chelsea, NY
+
+Dunkin' in Chelsea, New York was designed by Zelta Design. A corner Dunkin' at 8th Avenue and 14th Street, steps from the subway entrance. The storefront wraps the corner in charcoal brick under an orange canopy, with oversized pink DD letters cut into the fascia. Floor-to-ceiling glass opens the counter and menu boards to the sidewalk, giving the transit-heavy corner a storefront that reads from both streets.
+
+Address: 102 8th Avenue, New York, NY 10011.
+
+Source: https://www.zeltadesign.com/project/dunkin-102-8th-avenue/
+
+### Dunkin' - Chester Springs, PA
+
+Dunkin' in Chester Springs was designed by Zelta Design. Along Pottstown Pike in Chester Springs, this Dunkin' sits in a standalone building with a full dining room. Inside, red-orange tables pair with dark wood chairs under a colorful abstract mural, while a second seating area runs counter-height tables along the front windows under a lit OPEN sign. The donut case and menu board anchor the order counter.
+
+Address: 165 Pottstown Pike, Chester Springs, PA 19425.
+
+Source: https://www.zeltadesign.com/project/dunkin-165-pottstown-pike/
+
+### Dunkin' - Stamford, CT
+
+Dunkin' in Stamford was designed by Zelta Design. This Dunkin' occupies a strip-center bay on West Main Street in Stamford, its glass storefront banded in blue beneath a red awning strip shared with neighboring tenants. Inside, orange and purple accent walls frame the donut case and order counter, with a bright pastry display running the length of the service line.
+
+Address: 2000 West Main Street, Stamford, CT 06902.
+
+Source: https://www.zeltadesign.com/project/dunkin-2000-west-main-street/
+
+### Wendy's - Passaic, NJ
+
+Wendy's in Passaic, New Jersey was designed by Zelta Design. On Main Avenue in Passaic, this Wendy's is a freestanding building with a full drive-thru lane and digital order board. The exterior pairs a red monument sign with charcoal and tan panels and a wood-slat canopy at the entrance. Inside, wood-tone booths sit under an exposed black ceiling grid, and a NOW OPEN banner marks the debut.
+
+Address: 447-451 Main Avenue, Passaic, NJ 07055.
+
+Source: https://www.zeltadesign.com/project/wendys-447-451-main-avenue/
+
+### Empanada Mama - Upper East Side, NY
+
+Empanada Mama in Upper East Side, New York was designed by Zelta Design. Empanada Mama's First Avenue shop is a narrow city storefront on the Upper East Side, its bright green facade squeezed between a paleteria and a Filipino restaurant. Inside, white subway tile meets a yellow accent wall stamped with a smiling logo graphic, red stools line a brick wall, and touchscreen kiosks handle ordering at the counter.
+
+Address: 1435 First Avenue, New York, NY 10021.
+
+Source: https://www.zeltadesign.com/project/empanada-mama-1435-first-avenue/
+
+### Dunkin' - Statesville, NC
+
+Dunkin' in Statesville, North Carolina was designed by Zelta Design. This Statesville location pairs Dunkin' and Baskin-Robbins in one strip-center unit next to Lowe's, its tan brick facade carrying both brands' signs side by side. Inside, mustard-gold walls and orange booths mark the Dunkin' side, while a pink accent wall and glass ice cream case anchor Baskin-Robbins, with a pair of local high school jerseys hung by the counter.
+
+Address: 241 Turnersburg Highway, Statesville, NC 28625.
+
+Source: https://www.zeltadesign.com/project/dunkin-241-turnersburg-highway/
+
+### Little Caesars - Castle Hill, Bronx, NY
+
+Little Caesars in Castle Hill, Bronx, Bronx, New York was designed by Zelta Design. Little Caesars on Castle Hill Avenue in the Bronx sits in a narrow storefront bay beside a check-cashing shop, part of a busy retail strip. The dark gray fascia carries the brand's orange-striped signage band over a plain glass storefront, a straightforward hot-and-ready counter operation built for walk-up volume.
+
+Address: 1270 Castle Hill Avenue, Bronx, NY 10462.
+
+Source: https://www.zeltadesign.com/project/little-caesars-1270-castle-hill-avenue/
+
+### Dunkin' - Bronx, NY
+
+Dunkin' in Bronx, New York was designed by Zelta Design. At 140 East 170th Street in the Bronx, this Dunkin' interior centers on a long service counter finished in warm wood tone, backed by digital menu boards and a lit pastry case. Pink circular floor graphics mark the pickup area, and a Bronx-lettered wall sign ties the counter design to the neighborhood.
+
+Address: 140 E 170th Street, Bronx, NY 10452.
+
+Source: https://www.zeltadesign.com/project/dunkin-140-e-170th-street/
+
+### Jimmy John's - Financial District, NY
+
+Jimmy John's in Financial District, New York was designed by Zelta Design. Jimmy John's at 102 Fulton Street occupies a ground-floor bay in a Financial District building with traditional dark wood storefront millwork. The red JJ roundel and white block lettering sit above wood-framed glass doors, giving the sandwich shop a classic downtown storefront look rather than a modern quick-service front.
+
+Address: 102 Fulton Street, New York, NY 10038.
+
+Source: https://www.zeltadesign.com/project/jimmy-johns-102-fulton-street/
+
+### Dunkin' - Mineola, NY
+
+Dunkin' in Mineola, New York was designed by Zelta Design. Dunkin's Jericho Turnpike shop in Mineola is documented here by its interior alone: yellow and orange walls, a pink pick-up sign, and a black-and-tan checkerboard tile floor. Dark wood counters and an open beverage cooler complete a compact, color-forward service area built for fast counter turnover.
+
+Address: 126 Jericho Turnpike, Mineola, NY 11501.
+
+Source: https://www.zeltadesign.com/project/dunkin-126-jericho-turnpike/
+
+### Taco Bell - Flatiron District, NY
+
+Taco Bell in Flatiron District, New York was designed by Zelta Design. Taco Bell's 24 East 23rd Street location sits at the base of a Flatiron District tower, its glass storefront wrapping a purple structural column at the corner. Inside, a geometric mural in purple, pink, and teal covers one wall, a long communal wood table runs down the center, and globe pendant lights hang over black stools and framed neighborhood art.
+
+Address: 24 East 23rd Street, New York, NY 10010.
+
+Source: https://www.zeltadesign.com/project/taco-bell-24-east-23rd-street/
+
+### Dunkin' - Ransomville, NY
+
+Dunkin' in Ransomville, New York was designed by Zelta Design. In Ransomville, this Dunkin' along Youngstown Lockport Road is shown only from inside, where a red accent wall and dark ceiling tile frame the backlit Dunkin' Donuts sign above the pastry case. A simple, compact layout suited to a small rural crossroads location.
+
+Address: 2560 Youngstown Lockport Road, Ransomville, NY 14131.
+
+Source: https://www.zeltadesign.com/project/dunkin-2560-youngstown-lockport-road/
+
+### Dunkin' - Hillsborough, NJ
+
+Dunkin' in Hillsborough, Hillsborough Township, New Jersey was designed by Zelta Design. Dunkin' on Route 206 in Hillsborough Township is captured entirely from the inside: orange globe pendants light the pick-up counter, a tiled floor leads past a beverage cooler, and the donut case carries seasonal pumpkin signage. A window-side dining nook with orange booths overlooks the road out front.
+
+Address: 411 Route 206, Hillsborough Township, NJ 08844.
+
+Source: https://www.zeltadesign.com/project/dunkin-411-route-206/
+
+### Wingstop - Staten Island, NY
+
+Wingstop in Staten Island, New York was designed by Zelta Design. Wingstop's Hylan Boulevard location in Staten Island is a freestanding corner building sharing its site with a JD Sports storefront next door. A bright green service counter with the brand's winged logo faces a wood-slat accent wall lined with flavor menu boards, and black metal bench seating fills the small waiting area near the entrance.
+
+Address: 2626 Hylan Boulevard, Staten Island, NY 10306.
+
+Source: https://www.zeltadesign.com/project/wingstop-2626-hylan-boulevard/
+
+### Dunkin' - Bayside, NY
+
+Dunkin' in Bayside, New York was designed by Zelta Design. A small Dunkin' at 35-04 Bell Boulevard in Bayside operates as a walk-up kiosk built into the corner of a gas station canopy. The white cinderblock structure carries red and orange Dunkin' Donuts lettering over the service windows, a compact format built for fuel-stop traffic rather than a sit-down visit.
+
+Address: 35-04 Bell Boulevard, Bayside, NY 11361.
+
+Source: https://www.zeltadesign.com/project/dunkin-35-04-bell-boulevard/
+
+### Dunkin' - Times Square, NY
+
+Dunkin' in Times Square, New York was designed by Zelta Design. Dunkin' at 750 8th Avenue sits ground-floor in a glass office tower near Times Square, wedged beside an I NY souvenir shop. The storefront is a wide glass wall lit by backlit menu graphics for espresso drinks and donuts, built to catch foot traffic along a heavily walked block.
+
+Address: 750 8th Avenue, New York, NY 10036.
+
+Source: https://www.zeltadesign.com/project/dunkin-750-8th-avenue/
+
+### Pizza Hut - Hell's Kitchen, NY
+
+Pizza Hut in Hell's Kitchen, New York was designed by Zelta Design. Pizza Hut's storefront at 932 8th Avenue sits on the ground floor of a pre-war stone building in Hell's Kitchen, tucked among smaller storefronts including a tea shop next door. A red roof-shaped sign tops dark wood-tone fascia over the glass entrance, with protective film still on the door and windows ahead of opening.
+
+Address: 932 8th Avenue, New York, NY 10019.
+
+Source: https://www.zeltadesign.com/project/pizza-hut-932-8th-avenue/
+
+### Taco Bell - Long Island City, NY
+
+Taco Bell in Long Island City, Queens, New York was designed by Zelta Design. A corner unit on 21st Street in Long Island City, set behind arched storefront glass that wraps the counter area. Inside, white subway tile at the entry column sits against a purple-to-teal starburst mural on the back wall, with recessed ceiling lighting and a stainless counter facing the street-facing seating.
+
+Address: 40-09 21st Street, Queens, NY 11101.
+
+Source: https://www.zeltadesign.com/project/taco-bell-40-09-21st-street/
+
+### Taco Bell - Williamsburg, NY
+
+Taco Bell in Williamsburg, Brooklyn, New York was designed by Zelta Design. A South 5th Street storefront in Williamsburg with a full run of street-facing glass. A large collage-style graphic mural covers the dining wall behind a bench of wood-topped tables and black chairs, framed pendant lights overhead, and gray tile floors running the length of the narrow space to the order counter and kitchen pass.
+
+Address: 282 South 5th Street, Brooklyn, NY 11211.
+
+Source: https://www.zeltadesign.com/project/taco-bell-282-south-5th-street/
+
+### Taco Bell - Kingsbridge, NY
+
+Taco Bell in Kingsbridge, Bronx, New York was designed by Zelta Design. A Broadway storefront in the Bronx's Kingsbridge section with a purple and teal geometric mural running the full dining wall. Pendant and gooseneck fixtures light a run of wood-topped tables and framed art panels, while a self-order kiosk and stone-tile service counter sit near the entrance.
+
+Address: 5625 Broadway, Bronx, NY 10463.
+
+Source: https://www.zeltadesign.com/project/taco-bell-5625-broadway/
+
+### Popeyes - Meriden, CT
+
+Popeyes in Meriden was designed by Zelta Design. A freestanding drive-thru building on East Main Street in Meriden, with a brick tower entrance under an orange canopy and teal awning striping along the storefront glass. Twin drive-thru order canopies with the orange rooster mark stand in the lot, and inside a red-and-yellow wall graphic spells out the brand's New Orleans roots over the prep counter.
+
+Address: 1125 East Main Street, Meriden, CT 06450.
+
+Source: https://www.zeltadesign.com/project/popeyes-1125-east-main-street/
+
+### Taco Bell - Landover, MD
+
+Taco Bell in Landover was designed by Zelta Design. A freestanding restaurant on Annapolis Road in Landover with a stucco tower entrance in tan and orange, stone base accents, and a mulched landscape bed along the parking lot curve. Inside, a red counter surround sits under a yellow truss-beam ceiling feature, with colorful wall murals and bar-height seating along the front windows.
+
+Address: 7501 Annapolis Road, Landover, MD 20784.
+
+Source: https://www.zeltadesign.com/project/taco-bell-7501-annapolis-road/
+
+### Pizza Hut - Chelsea, NY
+
+Pizza Hut in Chelsea, New York was designed by Zelta Design. A West 23rd Street storefront in Chelsea with a compact counter service area finished in exposed brick and a wall-mounted ductless unit. A wood-grain laminate counter holds the register and to-go bags below hanging menu boards and a beverage cooler stocked with bottled drinks.
+
+Address: 264 West 23rd Street, New York, NY 10011.
+
+Source: https://www.zeltadesign.com/project/pizza-hut-264-west-23rd-street/
+
+### Taco Bell - Phillipsburg, NJ
+
+Taco Bell in Phillipsburg, New Jersey was designed by Zelta Design. A freestanding Route 22 location in Phillipsburg with an open dining room of teal-accented booth seating under a coffered drop ceiling, arched storefront windows on both sides bringing in daylight, and a stainless beverage station with a soda tower set into a stone-tile counter run.
+
+Address: 1200 US-22, Phillipsburg, NJ 08865.
+
+Source: https://www.zeltadesign.com/project/taco-bell-1200-us-22/
+
+### Dunkin' - Hell's Kitchen, NY
+
+Dunkin' in Hell's Kitchen, New York was designed by Zelta Design. A West 54th Street storefront near Hell's Kitchen with black-frame glass doors and window graphics facing the sidewalk. Inside, a backlit pumpkin bakery case sits below overhead menu screens, with security cameras and track lighting along the vaulted white ceiling.
+
+Address: 200 W 54th Street, New York, NY 10019.
+
+Source: https://www.zeltadesign.com/project/dunkin-200-w-54th-street/
+
+### Dunkin' - Lindenhurst, NY
+
+Dunkin' in Lindenhurst, New York was designed by Zelta Design. A freestanding 24-hour drive-thru on Route 109 in Lindenhurst, built in the shape of a shingled cottage with a cupola and cream lap siding. Inside, mustard-yellow walls hold an illustrated commuter mural over café tables, with pendant lighting and wood-look booths along the front windows.
+
+Address: 1011 Route 109, Lindenhurst, NY 11757.
+
+Source: https://www.zeltadesign.com/project/dunkin-1011-route-109/
+
+### Dunkin' - Kips Bay, NY
+
+Dunkin' in Kips Bay, New York was designed by Zelta Design. A 2nd Avenue shop in Kips Bay in a dark brick building, with an orange-striped canopy marking the entrance from the sidewalk. Inside, a charcoal accent wall reading "NYC Runs on Dunkin'" backs a run of small café tables, with wood-look wainscot and a wall-mounted cooling unit above the seating.
+
+Address: 476 2nd Avenue, New York, NY 10016.
+
+Source: https://www.zeltadesign.com/project/dunkin-476-2nd-avenue/
+
+### Dunkin' - Tonawanda, NY
+
+Dunkin' in Tonawanda, New York was designed by Zelta Design. A freestanding stone-front building on Niagara Falls Boulevard in Tonawanda, shown newly reopened with a Now Open banner and balloon pillars at the door. The updated orange script sign and arched window openings sit above a brick facade, replacing older channel-letter signage still visible beside the entrance.
+
+Address: 21112 Niagara Falls Boulevard, Tonawanda, NY 14150.
+
+Source: https://www.zeltadesign.com/project/dunkin-21112-niagara-falls-boulevard/
+
+### Dunkin' - Pelham Bay, NY
+
+Dunkin' in Pelham Bay, Bronx, New York was designed by Zelta Design. A Hutchinson River Parkway location in the Bronx's Pelham Bay area with a compact counter in warm gray-brown tones, a glass bakery case, and an illuminated orange menu board. Pink balloon bunches and orange packaging displays mark a store opening at the register.
+
+Address: 1320 Hutchinson River Parkway, Bronx, NY 10461.
+
+Source: https://www.zeltadesign.com/project/dunkin-1320-hutchinson-river-parkway/
+
+### Dunkin' - Harlem, NY
+
+Dunkin' in Harlem, New York was designed by Zelta Design. A ground-floor storefront on Central Park North in Harlem, set into a glass curtain wall tower with the round Dunkin' Donuts mark on the door and window graphics visible from the sidewalk.
+
+Address: 111 Central Park North, New York, NY 10026.
+
+Source: https://www.zeltadesign.com/project/dunkin-111-central-park-north/
+
+### Dunkin' - Chinatown, NY
+
+Dunkin' in Chinatown, New York was designed by Zelta Design. A Centre Street storefront in Chinatown sharing its building facade with a neighboring optical shop, with maroon-trimmed masonry piers framing the glass entrance and channel-letter signage above the windows.
+
+Address: 139 Centre Street, New York, NY 10013.
+
+Source: https://www.zeltadesign.com/project/dunkin-139-centre-street/
+
+### Dunkin' and Baskin-Robbins - Uniondale, NY
+
+Dunkin' and Baskin-Robbins in Uniondale, New York was designed by Zelta Design. A combined Dunkin' and Baskin-Robbins on Uniondale Avenue, freestanding with a rounded corner storefront in tan stucco and gray shingle-look panels. A yellow fabric awning shades the entrance, while inside a pink and blue ice cream case sits beneath backlit menu boards on a mustard tile wall.
+
+Address: 545 Uniondale Avenue, Uniondale, NY 11553.
+
+Source: https://www.zeltadesign.com/project/dunkin-and-baskin-robbins-545-uniondale-avenue/
+
+### Dunkin' - Staten Island, NY
+
+Dunkin' in Staten Island, New York was designed by Zelta Design. A freestanding corner building on Manor Road in Staten Island, wrapped in stacked-stone base and orange-striped fascia under the Dunkin' and DD roundel signs. Inside, a wood-tone coffee bar with labeled tap handles for cold brew, nitro, and tea sits under a dark ceiling, and a wall sign reads "Staten Island Runs on Dunkin'."
+
+Address: 995 Manor Road, Staten Island, NY 10312.
+
+Source: https://www.zeltadesign.com/project/dunkin-995-manor-road/
+
+### Taco Bell - North Brunswick, NJ
+
+Taco Bell in North Brunswick, New Jersey was designed by Zelta Design. A freestanding Route 130 location in North Brunswick with a bright white counter area, glass tile accent wall, and a bank of order kiosks under globe pendant lights. The dining room carries a large pop-art mural of a customer with tacos and hot sauce flames, paired with communal wood tables, stools, and exposed black ductwork overhead.
+
+Address: 2720 US Highway 130, North Brunswick, NJ 08902.
+
+Source: https://www.zeltadesign.com/project/taco-bell-2720-us-highway-130/
+
+### Taco Bell - Ridge, NY
+
+Taco Bell in Ridge, New York was designed by Zelta Design. Middle Country Road in Ridge carries this freestanding Taco Bell, built with the chain's orange stucco arch entrance under a tile roof and a red, purple and yellow stripe running the length of the facade. Inside, a black ceiling sets off two-tone striped booths, framed pop-art panels and a stainless self-serve drink station. The layout keeps counter and seating separate for quick turns.
+
+Address: 1750 Middle Country Road, Ridge, NY 11961.
+
+Source: https://www.zeltadesign.com/project/taco-bell-1750-middle-country-road/
+
+### Mike's Pizza - Union, NJ
+
+Mike's Pizza in Union, New Jersey was designed by Zelta Design. Mike's Pizza occupies a storefront unit on West Chestnut Street in Union, its glass front opening onto a dining room with a raised, railed platform for seating. A wall-mounted television, glass globe pendant lights on bronze fixtures and a tufted navy banquette give the room a lounge feel, paired with butcher-block tables and a mix of yellow and gray dining chairs.
+
+Address: 1235 West Chestnut Street, Union, NJ 07083.
+
+Source: https://www.zeltadesign.com/project/mikes-pizza-1235-west-chestnut-street/
+
+### Dunkin' - Rensselaer, NY
+
+Dunkin' in Rensselaer, New York was designed by Zelta Design. Broadway in Rensselaer holds this Dunkin' on a corner storefront, its bay window looking out at the elevated highway overpass across the street. The maroon and tan interior pairs a menu board over the service counter with a stocked grab-and-go shelf by the register and a window banquette with small two-top tables, handy for commuters catching the bus stop outside.
+
+Address: 448 Broadway, Rensselaer, NY 12144.
+
+Source: https://www.zeltadesign.com/project/dunkin-448-broadway/
+
+### Dunkin' - Nyack, NY
+
+Dunkin' in Nyack, New York was designed by Zelta Design. Route 59 in Nyack fronts this freestanding Dunkin', a two-story corner building in cream brick trimmed with the brand's orange band and orange window awnings. A wood-paneled accent wall marks the drive-thru side entrance. Photographed under snow, the site shows clear sightlines from the parking lot straight to the glass entry doors.
+
+Address: 25 Route 59, Nyack, NY 10960.
+
+Source: https://www.zeltadesign.com/project/dunkin-25-route-59/
+
+### Popeyes - Albany, NY
+
+Popeyes in Albany, New York was designed by Zelta Design. Southern Boulevard in Albany is home to this freestanding Popeyes, finished in the chain's current look with brick lower walls, teal trim over the windows and a band of vertical wood siding wrapping the corner. An orange entry door and teal canopy lighting mark the approach from the sidewalk.
+
+Address: 351 Southern Boulevard, Albany, NY 12209.
+
+Source: https://www.zeltadesign.com/project/popeyes-351-southern-boulevard/
+
+### Dunkin' - Paramus, NJ
+
+Dunkin' in Paramus, New Jersey was designed by Zelta Design. A drive-thru lane wraps this freestanding Dunkin' in Paramus, its gray panel exterior broken up by orange canopies and a lit tower sign. Inside, a wood accent wall spells out "Paramus Runs on Dunkin'" over the dining tables, while the light-wood service counter carries a self-order kiosk, a bakery case and an orange strip of ceiling lighting.
+
+Address: 134-137 Gertrude Avenue, Paramus, NJ 07652.
+
+Source: https://www.zeltadesign.com/project/dunkin-134-137-gertrude-avenue/
+
+### Taco Bell - Oxon Hill, MD
+
+Taco Bell in Oxon Hill was designed by Zelta Design. Oxon Hill Road carries this Taco Bell, a freestanding building that keeps the chain's older tile roofline and stacked-stone base. Inside, a patchwork of earth-toned floor tile leads past orange dining walls to a graffiti-style mural and pendant lighting over the booths, with a service gate at the rear marking a separate entrance off the parking lot.
+
+Address: 6315 Oxon Hill Road, Oxon Hill, MD 20745.
+
+Source: https://www.zeltadesign.com/project/taco-bell-6315-oxon-hill-road/
+
+### Taco Bell - West Long Branch, NJ
+
+Taco Bell in West Long Branch, New Jersey was designed by Zelta Design. Highway 36 in West Long Branch fronts this freestanding Taco Bell, photographed with an "Open for Breakfast" banner over the entrance beneath a tile roof and diamond-patterned parapet band. The dining room keeps its original teal and mauve color scheme, with arched window openings, patterned tile flooring and a mix of teal and white chairs at the booths.
+
+Address: 306 Highway 36, West Long Branch, NJ 07764.
+
+Source: https://www.zeltadesign.com/project/taco-bell-306-highway-36/
+
+### Taco Bell - Woodbridge, NJ
+
+Taco Bell in Woodbridge, New Jersey was designed by Zelta Design. St. Georges Avenue in Woodbridge fronts this Taco Bell, its stone-based orange stucco arch set under the chain's oversized bell sign. Inside, orange walls hold framed graphic murals over wood tables and chairs, with a raised order counter, digital menu boards and both a walk-up register and a self-order kiosk for guests.
+
+Address: 901 St. Georges Avenue, Woodbridge, NJ 07095.
+
+Source: https://www.zeltadesign.com/project/taco-bell-901-st-georges-avenue/
+
+### Dunkin' - Bellmore, NY
+
+Dunkin' in Bellmore, New York was designed by Zelta Design. Newbridge Road in Bellmore carries this Dunkin' in a dark city storefront, a large white steaming-cup logo painted across the brick facade in place of a standalone building. Inside, a deep red accent wall backs the register area, with checkerboard floor tile and a single dining table set against the front window for a quick stop.
+
+Address: 1526 Newbridge Road, Bellmore, NY 11710.
+
+Source: https://www.zeltadesign.com/project/dunkin-1526-newbridge-road/
+
+### Dunkin' & Baskin-Robbins - Bayonne, NJ
+
+Dunkin' & Baskin-Robbins in Bayonne, New Jersey was designed by Zelta Design. Lefante Way in Bayonne pairs Dunkin' and Baskin-Robbins under one roof, a strip storefront with scalloped yellow and orange awnings marking each brand's entrance bay. Inside, a pink ceiling band sits over the ice cream case, with a seasonal pumpkin display and a donut case both visible near the counter, serving coffee and ice cream from the same room.
+
+Address: 171 Lefante Way, Bayonne, NJ 07002.
+
+Source: https://www.zeltadesign.com/project/dunkin-baskin-robbins-171-lefante-way/
+
+### Taco Bell - Hazlet, NJ
+
+Taco Bell in Hazlet, New Jersey was designed by Zelta Design. Hazlet's stretch of Highway 36 holds this freestanding Taco Bell, built to the chain's current prototype with a purple stripe banding the roofline and a geometric mural of colored squares along one wall. The single exterior view shows the glass tower entrance and the parking lot approach.
+
+Address: 1185 NJ-36, Hazlet, NJ 07730.
+
+Source: https://www.zeltadesign.com/project/taco-bell-1185-nj-36/
+
+### Dunkin' - Flemington, NJ
+
+Dunkin' in Flemington, New Jersey was designed by Zelta Design. Route 202 in Flemington fronts this freestanding Dunkin' with a drive-thru, its tan and orange banded exterior topped by an angled awning at the entrance. Inside, an orange ceiling accent strip runs above light wood cabinetry, with a corner bay window seating area and a donut case stocked near the registers.
+
+Address: 302 US Highway 202, Flemington, NJ 08822.
+
+Source: https://www.zeltadesign.com/project/dunkin-302-us-highway-202/
+
+### Wingstop - Sunset Park, NY
+
+Wingstop in Sunset Park, Brooklyn, New York was designed by Zelta Design. Fifth Avenue in Brooklyn's Sunset Park holds this Wingstop in a city storefront next to a 7-Eleven, with a green door and a black-and-white tile vestibule. Inside, a bold wall graphic reads "Where Flavor Gets Its Wings" over a wood bench, and the service counter is finished in Wingstop's green with the brand's wing logo built into the front panel.
+
+Address: 5802 5th Avenue, Brooklyn, NY 11220.
+
+Source: https://www.zeltadesign.com/project/wingstop-5802-5th-avenue/
+
+### Dave's Hot Chicken - Ocean Township, NJ
+
+Dave's Hot Chicken in Ocean Township, Ocean, New Jersey was designed by Zelta Design. Asbury Avenue in Ocean Township holds this Dave's Hot Chicken in a strip-center unit next to a tanning salon, with a red channel-letter sign and red awning over the entrance. Inside, exposed wood beams cross a black ceiling above graffiti-style murals naming Neptune and Asbury Park, red metal chairs and wood tables, and a counter with soft-serve machines facing the dining room.
+
+Address: 2311 Asbury Avenue, Unit 5, Ocean, NJ 07712.
+
+Source: https://www.zeltadesign.com/project/daves-hot-chicken-2311-asbury-avenue-unit-5/
+
+### Dunkin' - Howard Beach, NY
+
+Dunkin' in Howard Beach, Queens, New York was designed by Zelta Design. Cross Bay Boulevard in the Howard Beach section of Queens carries this Dunkin' in a strip storefront, its stone-look base and orange awning band matching the row of shops beside it. Inside, checkerboard floor tile runs the length of the dining counter, with sports pennant string lights overhead and a stocked donut case along the service wall.
+
+Address: 163-02 Cross Bay Boulevard, Queens, NY 11414.
+
+Source: https://www.zeltadesign.com/project/dunkin-163-02-cross-bay-boulevard/
+
+### Dunkin' - Hempstead, NY
+
+Dunkin' in Hempstead, New York was designed by Zelta Design. Front Street in Hempstead holds this Dunkin' in a corner city storefront, checkerboard tile flooring carried from the entrance through the seating area. An orange accent wall behind the dining tables carries a large mural of people walking with Dunkin' cups, paired with a small round orange table and stools near the restroom hallway.
+
+Address: 1 Front Street, Hempstead, NY 11550.
+
+Source: https://www.zeltadesign.com/project/dunkin-1-front-street/
+
+### Taco Bell - Union Square, NY
+
+Taco Bell in Union Square, New York was designed by Zelta Design. Fourteenth Street near Union Square holds this Taco Bell in a ground-floor city storefront finished in white subway tile, with glass globe pendant lighting over the dining counter. Self-order kiosks line one wall, digital menu boards hang over the service counter, and a rolling mobile-order pickup shelf sits near the entrance, with a colorful abstract mural filling the back dining wall.
+
+Address: 18 East 14th Street, New York, NY.
+
+Source: https://www.zeltadesign.com/project/taco-bell-18-east-14th-street/
+
 ### Dave's Hot Chicken - Hell's Kitchen, NY
 
-Dave's Hot Chicken in Hell's Kitchen, New York was designed by Zelta Design. Dave's Hot Chicken in Hell's Kitchen features custom graffiti-inspired artwork by Splatter Haus across the interior and exterior.
+Dave's Hot Chicken in Hell's Kitchen, New York was designed by Zelta Design. This Dave's Hot Chicken sits mid-block on 8th Avenue in Hell's Kitchen, a narrow storefront bay between neighboring retail. Splatter Haus graffiti-style murals cover the interior walls and continue onto the exterior, turning the whole facade into a piece of street art. Inside, red seating and an open counter keep ordering and pickup close together, so the storefront announces the brand well before a customer reaches the door.
 
 Address: 944 8th Avenue, New York, NY 10019. Floor area: 3,286 sq ft.
 
@@ -173,7 +646,7 @@ Source: https://www.zeltadesign.com/project/taco-bell-jersey-city/
 
 ### Popeyes - Greenwich Village, NY
 
-Popeyes in Greenwich Village, New York was designed by Zelta Design. This Popeyes occupies a cellar, first floor, second floor and penthouse. The design incorporates the existing geometric storefront windows. Upstairs, a 26-seat dining area receives daylight through a skylight.
+Popeyes in Greenwich Village, New York was designed by Zelta Design. Occupying a cellar, first floor, second floor and penthouse on Sixth Avenue, this Greenwich Village Popeyes has a distinctive diamond-shaped storefront window rising through two stories at the entrance. A bold graphic wall of Louisiana Kitchen slogans wraps the ground-floor ordering area, while an open stair leads to upstairs seating that receives daylight through a skylight. Stacking dining above street-level ordering lets a narrow, geometric building hold far more seating than its footprint would otherwise allow.
 
 Address: 305 Sixth Avenue, New York, NY 10014. Floor area: 4,195 sq ft.
 
@@ -181,7 +654,7 @@ Source: https://www.zeltadesign.com/project/popeyes-greenwich-village/
 
 ### Captain Cookie & The Milkman - Astor Place, NY
 
-Captain Cookie & The Milkman in Astor Place, New York was designed by Zelta Design. Captain Cookie & The Milkman’s first New York City location is near NYU. The design uses a blue facade, superhero graphics and angular lines that continue across tile and painted surfaces.
+Captain Cookie & The Milkman in Astor Place, New York was designed by Zelta Design. Captain Cookie & The Milkman's first New York location sits on Broadway in NoHo, near NYU, in an 875-square-foot storefront. A blue facade and comic-book lettering carry inside to a lightning-bolt graphic that runs across the walls, paired with blue and yellow tile at the order counter and a red diagonal accent behind the pastry case. Yellow and blue-gray chairs at small round tables give the narrow space a few seats for the ice cream and cookie crowd waiting on orders.
 
 Address: 741 Broadway, New York, NY 10003. Floor area: 875 sq ft.
 
@@ -189,7 +662,7 @@ Source: https://www.zeltadesign.com/project/captain-cookie-the-milkman-noho/
 
 ### Gumption Coffee - Flatiron District, NY
 
-Gumption Coffee in Flatiron District, New York was designed by Zelta Design. Gumption Coffee’s Flatiron location adapts the brand’s wave feature to a smaller interior.
+Gumption Coffee in Flatiron District, New York was designed by Zelta Design. Gumption Coffee's Flatiron shop on Broadway adapts the brand's wave motif to a 737-square-foot footprint. A teal soffit curves overhead behind the espresso bar, hung with copper pendant lights above a white counter with brass trim, while a hexagonal tile floor and a small teal banquette give the narrow room definition. Framed comic-panel art lines the wall by the Gumption sign, and the compact layout keeps the bar, pastry case, and drink cooler within a few steps of the door.
 
 Address: 940 Broadway, New York, NY 10010. Floor area: 737 sq ft.
 
@@ -269,7 +742,7 @@ Source: https://www.zeltadesign.com/project/wendys-726-jersey-avenue/
 
 ### Dunkin' - Carlstadt, NJ
 
-Dunkin' in Carlstadt, New Jersey was designed by Zelta Design. The interior combines Dunkin’ brand colors with customer seating and a layout for quick-service orders.
+Dunkin' in Carlstadt, New Jersey was designed by Zelta Design. Corner-lot and freestanding, this Dunkin' in Carlstadt has its own parking and drive-thru, faced in gray brick with an orange accent wall at the entrance. Inside, the counter combines Dunkin's brand colors with a small dining area near the front windows, laid out for quick-service ordering rather than a long stay. A wall sign names the town behind the pickup counter, and a bagged coffee display sits near the register for retail add-ons. The layout moves counter orders quickly while still giving a few guests a place to sit.
 
 Address: 440 Veterans Blvd, Carlstadt, NJ 07072.
 
@@ -285,7 +758,7 @@ Source: https://www.zeltadesign.com/project/dunkin-243-9th-avenue/
 
 ### Dunkin' - Manhattan (1995 Amsterdam Avenue), NY
 
-Dunkin' in New York was designed by Zelta Design. This Amsterdam Avenue location includes counter seating and a service area for takeaway orders.
+Dunkin' in New York was designed by Zelta Design. Along Amsterdam Avenue in Washington Heights, this Dunkin' takes a street-level storefront with counter seating built next to the pastry case for guests grabbing a quick bite. The service area keeps ordering, pickup, and the donut case within a few steps of each other for fast takeaway. We used a dark tile accent wall with a lit neighborhood graphic behind the counter, warm wood-tone millwork, and a tap wall for cold brew and iced tea. The tight layout keeps the line moving even when the counter seats fill up.
 
 Address: 1995 Amsterdam Ave, New York, NY 10032.
 
@@ -333,7 +806,7 @@ Source: https://www.zeltadesign.com/project/buffalo-wild-wings-go-2330-watt-stre
 
 ### Dunkin' - Times Square, NY
 
-Dunkin' in Times Square, New York was designed by Zelta Design. This project is located in the Paramount Building at 1501 Broadway. Dunkin’ branding is incorporated within the existing Art Deco building.
+Dunkin' in Times Square, New York was designed by Zelta Design. Set into the Paramount Building at 1501 Broadway in Times Square, this Dunkin' carries a marquee-style lit sign that matches the Art Deco facade around it, rather than standard channel letters. The storefront is narrow and glass-fronted, built for foot traffic rather than seating. Inside, a self-service station near the entrance handles straws and napkins while the counter runs pickup and delivery orders behind it. The branding works with the building's own architecture instead of covering it over.
 
 Address: 1501 Broadway, New York, NY 10036.
 
@@ -341,7 +814,7 @@ Source: https://www.zeltadesign.com/project/dunkin-1501-broadway/
 
 ### Dunkin' - Bronx (331 E 138th Street), NY
 
-Dunkin' in Bronx, New York was designed by Zelta Design. This East 138th Street location has a compact layout for takeaway service.
+Dunkin' in Bronx, New York was designed by Zelta Design. On a corner at East 138th Street in Mott Haven, this Dunkin' occupies the ground floor of a walk-up apartment building, with green storefront columns framing two sides of glass. Inside, the compact footprint keeps ordering, the pastry case, and a short queue line close together for fast takeaway. We kept the palette to warm wood-tone counters against white tile, with a graphic wall mural naming the neighborhood behind the register. The layout favors quick in-and-out visits over lingering.
 
 Address: 331 E 138th Street, Bronx, NY 10454.
 
@@ -349,7 +822,7 @@ Source: https://www.zeltadesign.com/project/dunkin-331-e-138th-street/
 
 ### Wingstop - Brooklyn, NY
 
-Wingstop in Brooklyn, New York was designed by Zelta Design. Wingstop storefront on Flatbush Avenue in Brooklyn.
+Wingstop in Brooklyn, New York was designed by Zelta Design. Wingstop's Flatbush Avenue location sits behind a black storefront on the ground floor of a Brooklyn brownstone block. Past the entry, a wood-plank accent wall displays photographed flavor options next to a green order counter with the Wingstop wing logo, backed by white subway tile and a black drop ceiling. A wall-mounted bench near the flavor wall gives waiting customers a place to sit while orders are called, keeping the compact counter area focused on quick pickup rather than dine-in seating.
 
 Address: 240 Flatbush Avenue, Brooklyn, NY 11217.
 
@@ -357,7 +830,7 @@ Source: https://www.zeltadesign.com/project/wingstop-240-flatbush-avenue/
 
 ### Dave's Hot Chicken - Manhattan, NY
 
-Dave's Hot Chicken in New York was designed by Zelta Design. This West 125th Street project occupies 3,061 square feet.
+Dave's Hot Chicken in New York was designed by Zelta Design. West 125th Street in Harlem holds this Dave's Hot Chicken, set in a ground-floor storefront framed by the neighborhood's older masonry buildings. A colorful roll-down gate and bold red signage announce the brand at street level, with graphic murals continuing through the entry vestibule. Red stool seating and an open ordering counter keep the compact 3,061-square-foot space efficient, so pickup and takeaway move quickly for a corridor with heavy foot traffic.
 
 Address: 252 West 125th Street, New York, NY 10027. Floor area: 3,061 sq ft.
 
@@ -365,7 +838,7 @@ Source: https://www.zeltadesign.com/project/daves-hot-chicken-252-west-125th-str
 
 ### Taco Bell - Manville, NJ
 
-Taco Bell in Manville, New Jersey was designed by Zelta Design. This 2,087-square-foot Taco Bell includes a drive-thru and is located in a plaza with a movie theater.
+Taco Bell in Manville, New Jersey was designed by Zelta Design. Located in a plaza anchored by a movie theater in Manville, this freestanding Taco Bell includes a drive-thru lane. Floor-to-ceiling glass wraps the dining room, bringing daylight to booth and table seating beneath an exposed black ceiling with slim pendant lights. A tall graphic mural in the corner reads Order Ahead beside the app icon, tying digital ordering into the room's decor. With counter, kiosk and drive-thru all built into the plan, the layout gives customers several ways to order without the dining room feeling like an afterthought.
 
 Address: 100 North Main Street, Manville, NJ 08835. Floor area: 2,087 sq ft. Scope: drive-thru.
 
@@ -381,7 +854,7 @@ Source: https://www.zeltadesign.com/project/dunkin-275-madison-avenue/
 
 ### Taco Bell - North Arlington, NJ
 
-Taco Bell in North Arlington, New Jersey was designed by Zelta Design. This 1,548-square-foot Taco Bell in a Schuyler Avenue shopping plaza includes a customer dining room.
+Taco Bell in North Arlington, New Jersey was designed by Zelta Design. Taco Bell occupies a storefront bay in a Schuyler Avenue shopping plaza in North Arlington, between neighboring retail tenants under a shared green awning. Inside, a dedicated late-night pickup window sits beside the entry, with a self-order kiosk and a separate mobile and delivery pickup shelf near the counter. A booth with a colorful abstract print sits along the front window for the customer dining room. Keeping order kiosks, counter service and pickup as separate stations lets the 1,548-square-foot space handle counter, mobile and late-night orders at once.
 
 Address: 15 Schuyler Ave, North Arlington, NJ 07031. Floor area: 1,548 sq ft.
 
@@ -389,7 +862,7 @@ Source: https://www.zeltadesign.com/project/taco-bell-15-schuyler-avenue/
 
 ### Dunkin’/Baskin Robbins - Bronx, NY
 
-Dunkin' in Bronx, New York was designed by Zelta Design. This combined Dunkin’ and Baskin-Robbins location includes dine-in and drive-thru service.
+Dunkin' in Bronx, New York was designed by Zelta Design. This Mount Eden location combines Dunkin' and Baskin-Robbins with a drive-thru, on a corner site built for both car and walk-in traffic. Inside, a curved donut case sits near the entry with the order counter and a self-service kiosk set back near the dining area, so mobile pickup and in-person ordering don't collide. Cream tile, wood-look counters, and a Baskin-Robbins freezer wall carry both brands' colors without clashing. The layout lets drive-thru, counter service, and seated guests all move through without crossing paths.
 
 Address: 1733 Jerome Avenue, Bronx, NY 10453. Scope: drive-thru, multi-brand combo.
 
@@ -397,7 +870,7 @@ Source: https://www.zeltadesign.com/project/dunkin-baskin-robbins-1733-jerome-av
 
 ### Insomnia Cookies - Bronx, NY
 
-Insomnia Cookies in Bronx, New York was designed by Zelta Design. This Fordham Road store is arranged for takeaway orders.
+Insomnia Cookies in Bronx, New York was designed by Zelta Design. This Insomnia Cookies on Fordham Road in the Bronx is arranged for takeaway orders, with no dining seats in the compact footprint. A drip-shaped white counter with the brand's moon logo curves along one wall, fronted by a glass bakery case and digital menu boards for cookies, ice cream, and milkshakes. Penny-round white tile and a hand-drawn purple mural of city icons cover the walls under a black ceiling, carrying the late-night, campus-born identity into a walk-up storefront format.
 
 Address: 377 E Fordham Road, Bronx, NY 10458.
 
@@ -405,7 +878,7 @@ Source: https://www.zeltadesign.com/project/insomnia-cookies-377-e-fordham-road/
 
 ### Taco Bell - Staten Island, NY
 
-Taco Bell in Staten Island, New York was designed by Zelta Design. Remodel of an existing space, this drive-thru Taco Bell location with exposed interior structure and features a variety of seating options including community tables, banquette seating, counter seating, and tables for 54. With a complete exterior refinish and signage tower that stands proud with its weathered rustic finish and classic Taco Bell logo.
+Taco Bell in Staten Island, New York was designed by Zelta Design. A remodel of an existing drive-thru building on Page Avenue, this Staten Island Taco Bell keeps its structure exposed rather than covering it up. Inside, a mix of community tables, banquette seating and counter seating spreads dining across the room for 54 guests, while a colorful storefront mural runs behind the register. Outside, a weathered rustic signage tower carries the classic Taco Bell logo above a fully refinished exterior. The variety of seating gives the drive-thru location a dine-in draw it did not have before.
 
 Address: 245 Page Avenue, Staten Island, NY 10307. Scope: remodel, drive-thru.
 
@@ -429,7 +902,7 @@ Source: https://www.zeltadesign.com/project/taco-bell-675-paterson-avenue/
 
 ### Dave’s Hot Chicken - Brooklyn (311 7th Avenue), NY
 
-Dave's Hot Chicken in Brooklyn, New York was designed by Zelta Design. Just moments from Prospect Park, this space features vibrant graphics reminiscent of the neighborhood and seating for 16 guests.
+Dave's Hot Chicken in Brooklyn, New York was designed by Zelta Design. A few blocks from Prospect Park, this Dave's Hot Chicken sits on 7th Avenue in Park Slope, Brooklyn, in a narrow storefront lined with neighboring shops. Bold red signage and graphic murals mark the entrance, and the interior repeats the graphic language on the walls behind red stool seating for 16 guests. The layout keeps the ordering counter and pickup near the door, so the shop reads as a quick stop along a busy retail strip.
 
 Address: 311 7th Avenue, Brooklyn, NY 11215. Seats: 16.
 
@@ -437,7 +910,7 @@ Source: https://www.zeltadesign.com/project/daves-hot-chicken-311-7th-avenue/
 
 ### Dunkin' - Upper West Side, NY
 
-Dunkin' in Upper West Side, New York was designed by Zelta Design. Located in the Upper West Side, this space features the latest Omni equipment and finishes with seating for up to 2 guests.
+Dunkin' in Upper West Side, New York was designed by Zelta Design. On Broadway on the Upper West Side, this Dunkin' takes a single storefront bay with a wide glass front and orange awning band facing the sidewalk. The site text notes seating for up to two guests, so the space leans almost entirely toward takeaway, with the counter and pastry case set close to the entry. We used the current Omni equipment and finish package: light wood tones, orange accent lighting, and a red-white-and-blue balloon arch marking the opening. Most orders move straight from counter to door.
 
 Address: 2264 Broadway, New York, NY 10024. Seats: 2. Program: Dunkin OMNI.
 
@@ -445,7 +918,7 @@ Source: https://www.zeltadesign.com/project/dunkin-2264-broadway/
 
 ### Dave’s Hot Chicken - Upper East Side, NY
 
-Dave's Hot Chicken in Upper East Side, New York was designed by Zelta Design. Located in the Upper East Side, this space embraces the culture of the neighborhood with its artwork and seating for 19 guests.
+Dave's Hot Chicken in Upper East Side, New York was designed by Zelta Design. On 3rd Avenue on the Upper East Side, this Dave's Hot Chicken occupies a narrow storefront between neighboring shops. Inside, a bright yellow accent wall carries a hand-drawn mural next to the entry, paired with red stool seating and warm pendant lighting over the counter. Ordering, pickup and the small dining area sit close together in the tight footprint, keeping the walk-in crowd moving without crowding the sidewalk queue.
 
 Address: 1498 3rd Ave, New York, NY 10028. Seats: 19.
 
@@ -469,7 +942,7 @@ Source: https://www.zeltadesign.com/project/dunkin-61-n-village-avenue/
 
 ### Dunkin’ - Midtown, NY
 
-Dunkin' in Midtown, New York was designed by Zelta Design. Remodel of an existing Dunkin located in the heart of Midtown just minutes from Rockefeller Center, features the latest NextGen equipment and finishes throughout with the addition of a Walk-Up window for easy customer pick up.
+Dunkin' in Midtown, New York was designed by Zelta Design. Just off Lexington Avenue in Midtown East, minutes from Rockefeller Center, this remodeled Dunkin' takes a narrow storefront between neighboring shops with a wood-paneled sign band. We added a walk-up window for easy pickup alongside the main entrance, and finished the counter area with NextGen equipment, a tap wall for cold brew and iced tea, and warm wood-tone millwork. The walk-up window lets commuters grab a coffee without stepping inside at all.
 
 Address: 638 Lexington Ave, New York, NY 10022. Program: Dunkin NextGen. Scope: remodel, walk-up window.
 
@@ -477,7 +950,7 @@ Source: https://www.zeltadesign.com/project/dunkin-638-lexington-avenue/
 
 ### Popeyes - Staten Island, NY
 
-Popeyes in Staten Island, New York was designed by Zelta Design. With its floor to ceiling windows and featured the imagery, this space gives a little flare and feel of the New Orleans culture. The dining room can seat up to 16 guests.
+Popeyes in Staten Island, New York was designed by Zelta Design. This freestanding Popeyes on Staten Island's Page Avenue sits on its own corner lot, wrapped in brick and floor-to-ceiling glass beneath a teal steel canopy. Inside, the same New Orleans-inspired identity continues through collaged Louisiana graphics, a wood-front counter, and an orange accent frame around the soda station and mobile pickup shelf. The glass walls flood the sixteen-seat dining room with daylight, while a separate pickup nook keeps mobile orders away from the ordering line.
 
 Address: 158 Page Avenue, Staten Island, NY 10307. Seats: 16.
 
@@ -485,7 +958,7 @@ Source: https://www.zeltadesign.com/project/popeyes-158-page-avenue/
 
 ### Dunkin’ - Staten Island, NY
 
-Dunkin' in Staten Island, New York was designed by Zelta Design. Located nearby the West Shore Expressway and inside of a convenience store, this Dunkin’ with a drive-thru, features the latest NextGen layout and warm palette finishes. Exterior refresh with new monolith and signage.
+Dunkin' in Staten Island, New York was designed by Zelta Design. Inside an existing convenience store on the West Shore Expressway service road in Staten Island, this Dunkin' with drive-thru shares the building with a deli counter, coolers, and packaged goods. We gave the exterior a refresh with a new monolith sign and updated signage band, and carried the NextGen layout and a warm palette through the coffee counter, keeping it visually distinct from the surrounding retail. A few outdoor tables sit along the storefront. The drive-thru keeps commuter traffic moving without a stop inside.
 
 Address: 180 West Service Road, Staten Island, NY 10314. Program: Dunkin NextGen. Scope: remodel, drive-thru.
 
@@ -493,7 +966,7 @@ Source: https://www.zeltadesign.com/project/dunkin-180-west-service-road/
 
 ### Dunkin’ / Baskin-Robbins - East Harlem, NY
 
-Dunkin' in East Harlem, New York was designed by Zelta Design. Located in East Harlem, this Dunkin and Baskin-Robbins combo features the latest OMNI finish throughout.
+Dunkin' in East Harlem, New York was designed by Zelta Design. This East Harlem shop pairs Dunkin' and Baskin-Robbins behind a single storefront on First Avenue, with matching orange and pink channel letters marking each side of the entrance. The combo runs on a shared counter and back-of-house, with separate menu boards for coffee and ice cream. We carried the OMNI finish package throughout: light wood counters, tile backsplash, and digital menu boards over the pastry case, plus a dedicated ice cream freezer wall stocked with pints and cakes. One visit covers both a coffee run and a scoop.
 
 Address: 1978 First Avenue, New York, NY 10029. Program: Dunkin OMNI. Scope: multi-brand combo.
 
@@ -509,7 +982,7 @@ Source: https://www.zeltadesign.com/project/dunkin-jimmy-johns-316-west-34th-str
 
 ### Dunkin’ / Jimmy John’s - Midtown (157 West 33rd Street), NY
 
-Dunkin' in Midtown, New York was designed by Zelta Design. Minutes from Madison Square Gardens and Penn Station, this Dunkin’ and Jimmy John’s combo blends two concepts into one and offers its customers with various options and kiosks for customer ease.
+Dunkin' in Midtown, New York was designed by Zelta Design. Near Herald Square and Penn Station, this storefront pairs Dunkin' and Jimmy John's under one blue-paneled facade with stacked signage, a block from Madison Square Garden. The two brands share the space but keep separate order points, with self-order kiosks positioned near the entrance to spread out lines during rush periods. Wood-slat paneling and orange and black signage identify Dunkin's side, while Jimmy John's keeps its own counter. The kiosks let commuters order fast without waiting behind each other's queues.
 
 Address: 157 West 33rd Street, New York, NY 10001. Scope: multi-brand combo.
 
@@ -525,7 +998,7 @@ Source: https://www.zeltadesign.com/project/buffalo-wild-wings-go-455-park-avenu
 
 ### Taco Bell - Bronx (72 Westchester Square), NY
 
-Taco Bell in Bronx, New York was designed by Zelta Design. Located in the Westchester Square neighborhood of the Bronx, this space features the latest finishes with some seating for 26 and kiosks for easy customer ordering and pick up.
+Taco Bell in Bronx, New York was designed by Zelta Design. In the Westchester Square neighborhood of the Bronx, this Taco Bell takes a storefront position with the brand's current purple and gray finishes carried across the exterior sign and interior walls. Self-order kiosks stand near the entrance for quick customer ordering and pickup, while seating for 26 fills the remaining floor area with simple table and stool groupings. Locating kiosks up front and seating toward the back keeps the ordering line separate from guests already eating.
 
 Address: 72 Westchester Square, Bronx, NY 10461. Seats: 26.
 
@@ -533,7 +1006,7 @@ Source: https://www.zeltadesign.com/project/taco-bell-72-westchester-square/
 
 ### 375 Chicken ‘N Fries - Newark, NJ
 
-375º Chicken 'N Fries in Newark, New Jersey was designed by Zelta Design. Located on the concourse level inside the Gateway Center and the first to the NJ area, featuring vibrant colors and decor which embodies the cultures of the area with seating for 3.
+375º Chicken 'N Fries in Newark, New Jersey was designed by Zelta Design. 375º Chicken 'N Fries opened as the first New Jersey location for the brand on the concourse level of Newark's Gateway Center, in an open storefront facing the mall corridor. A black tin ceiling and orange corrugated-metal counter anchor the space, framed by bold black-and-orange comic-style graphics of chickens and burgers and a neon 375 sign. Orange stools at a narrow bar seat a handful of guests, with seating for three built for quick concourse foot traffic rather than a sit-down crowd.
 
 Address: 11-43 Raymond Plaza West, Newark, NJ 07102. Seats: 3.
 
@@ -541,7 +1014,7 @@ Source: https://www.zeltadesign.com/project/375-chicken-n-fries-11-43-raymond-pl
 
 ### Popeyes - Manhattan, NY
 
-Popeyes in New York was designed by Zelta Design. This 2-level space featuring vibrant colors and decor throughout gives that welcoming New Orleans feel with seating for 37 guests and kiosks for customer ease.
+Popeyes in New York was designed by Zelta Design. Near Union Square, this Popeyes fills a 2-level storefront, with the dining room upstairs and ordering below street level. Teal and orange walls carry the brand's New Orleans color story throughout, and a row of self-order kiosks lines the entry for customer ease. Seating for 37 spreads across both floors, with a mix of stools and booths. Splitting ordering and dining across two levels keeps the ground-floor entry uncluttered while still giving the location real seating capacity in a tight footprint.
 
 Address: 34 East 14th Street, New York, NY 10003. Seats: 37.
 
@@ -549,7 +1022,7 @@ Source: https://www.zeltadesign.com/project/popeyes-34-e-14th-street/
 
 ### Taco Bell - Bronx (3490 Jerome Avenue), NY
 
-Taco Bell in Bronx, New York was designed by Zelta Design. This space features sleek exterior and vibrant artwork and decor throughout the dining area which accommodates seating for 28 guests and kiosks for customer ease.
+Taco Bell in Bronx, New York was designed by Zelta Design. On Jerome Avenue in the Norwood section of the Bronx, this Taco Bell presents a sleek exterior storefront to the street, with the current purple brand identity carried through to the sign band. Inside, colorful artwork and decor run across the dining area, which seats 28 guests amid a mix of stools, banquettes and framed graphic prints. Kiosks near the counter give customers an easy way to order and move to pickup, keeping the compact dining room from bottlenecking at busy times.
 
 Address: 3490 Jerome Ave, Bronx, NY 10467. Seats: 28.
 
@@ -565,7 +1038,7 @@ Source: https://www.zeltadesign.com/project/dunkin-260-e-161st-street/
 
 ### Caroline's Donuts - Upper East Side, NY
 
-Caroline's Donuts in Upper East Side, New York was designed by Zelta Design. Located near Central Park in the Upper East Side, this space provides an open concept with a rustic interior along with the smell of their fresh baked goods, offers a welcoming vibe with some indoor and outdoor seating.
+Caroline's Donuts in Upper East Side, New York was designed by Zelta Design. Near Central Park on the Upper East Side, Caroline's Donuts occupies a narrow storefront at 1631 Second Avenue behind a black awning and glowing script sign. Inside, white subway tile and an exposed brick accent wall frame a wood-plank counter and glass bakery case, with black chalkboard menus and a black circle logo painted on the tile. Black bistro tables sit both inside and along the sidewalk, giving the rustic, open-concept shop a mix of indoor and outdoor seating for the morning crowd.
 
 Address: 1631 2nd Avenue, New York, NY 10028.
 
@@ -573,7 +1046,7 @@ Source: https://www.zeltadesign.com/project/carolines-donuts-1631-2nd-avenue/
 
 ### Bonchon - Gramercy Park, NY
 
-Bonchon in Gramercy Park, New York was designed by Zelta Design. Located in Gramercy Park, this space features the images and flare of Korean heritage culture throughout the dining area which accommodates seating for 18 guests.
+Bonchon in Gramercy Park, New York was designed by Zelta Design. Bonchon's Gramercy Park location sits on First Avenue behind a black storefront with the brand's red teardrop mark lit above the door. Inside, a black ceiling and black-and-white illustrated mural of a Korean streetscape, complete with hand lettering for hand battered and extra crispy, wraps one wall, while red, black, and yellow photo-collage panels of Seoul cover another. Wood-top tables and dark metal chairs fill the eighteen-seat dining room between the two murals.
 
 Address: 367 First Avenue, New York, NY 10010. Seats: 18.
 
@@ -581,7 +1054,7 @@ Source: https://www.zeltadesign.com/project/bonchon-367-first-avenue/
 
 ### Dunkin' - Washington Heights, NY
 
-Dunkin' in Washington Heights, New York was designed by Zelta Design. This new Dunkin in the Bronx neighborhood of Washington Heights features the latest NextGen equipment and finishes throughout with seating for 4 on the inside and also a Walk-Up window for easy customer pick up.
+Dunkin' in Washington Heights, New York was designed by Zelta Design. New to Washington Heights, this Dunkin' sits in a walk-up building on Broadway with a narrow storefront and black metal accents. The site text notes seating for four inside along with a walk-up window for easy pickup, keeping the footprint tight but flexible. We finished the counter area with NextGen equipment, an ATM near the entrance, and a small seating counter along the side wall. The walk-up window pulls quick orders off the main line, keeping the handful of seats open.
 
 Address: 3830 Broadway, New York, NY 10032. Seats: 4. Program: Dunkin NextGen. Scope: walk-up window.
 
@@ -589,7 +1062,7 @@ Source: https://www.zeltadesign.com/project/dunkin-3830-broadway/
 
 ### Dunkin' - Paterson, NJ
 
-Dunkin' in Paterson, New Jersey was designed by Zelta Design. Remodel of an existing Dunkin and Baskin-Robbins combo w/ Drive-thru located near Rt. 80 which features the latest Omni equipment and finishes. This space boasts a large Dining Area with ample natural sunlight and seating for up to 24 guests.
+Dunkin' in Paterson, New Jersey was designed by Zelta Design. A remodel near Route 80 in Paterson, this freestanding Dunkin' and Baskin-Robbins reads from the road with a tall rooftop cup sculpture and a corner entry canopy over the lot. Inside, a self-order kiosk stands near the entrance, with large windows bringing daylight across a dining area the site text lists at seating for up to 24. We finished the space in the latest Omni package: light wood tones, orange lighting, and a wall graphic naming the town. Guests can skip the line and order at the kiosk.
 
 Address: 1212 Madison Avenue, Paterson, NJ 07503. Seats: 24. Program: Dunkin OMNI. Scope: remodel, drive-thru, multi-brand combo.
 
@@ -597,7 +1070,7 @@ Source: https://www.zeltadesign.com/project/dunkin-baskin-robbins-1212-madison-a
 
 ### Popeyes - East Village, NY
 
-Popeyes in East Village, New York was designed by Zelta Design. Located in the East Village, this space features the image from Popeyes that gives a little flare and feel of the New Orleans culture both inside and outside. The dining room can seat up to 8 guests.
+Popeyes in East Village, New York was designed by Zelta Design. On East 14th Street in the East Village, this Popeyes occupies a narrow storefront bay with a white brick facade and an orange-trimmed entry. Inside, a wood-slat order counter and an interior mural collaging Louisiana script and rooster graphics carry the brand's New Orleans identity through to a small back hallway with a second pickup counter. Track lighting and neon accents keep the counter bright while the dining room stays compact, seating up to eight guests.
 
 Address: 444 East 14th Street, New York, NY 10009. Seats: 8.
 
@@ -605,7 +1078,7 @@ Source: https://www.zeltadesign.com/project/popeyes-444-east-14th-street/
 
 ### Dunkin' - Bronx (2973 East Tremont Avenue), NY
 
-Dunkin' in Bronx, New York was designed by Zelta Design. Remodel of an existing Dunkin w/ Drive-thru located in the Bronx which features the latest Omni equipment and finishes throughout with the addition of a Walk-Up window for easy customer pick up.
+Dunkin' in Bronx, New York was designed by Zelta Design. A remodel in Throggs Neck, this freestanding Dunkin' with drive-thru sits under the elevated rail line, its angled tan and dark tile facade visible from the road. We added a walk-up window alongside the drive-thru lane for easy pickup, and finished the interior with the latest Omni equipment, a wall mural naming the borough, and a tap wall for iced tea and cold brew behind the counter. Guests can pick up on foot at the window without going through the drive-thru line.
 
 Address: 2973 E. Tremont Ave, Bronx, NY 10461. Program: Dunkin OMNI. Scope: remodel, drive-thru, walk-up window.
 
@@ -645,7 +1118,7 @@ Source: https://www.zeltadesign.com/project/taco-bell/
 
 ### Buffalo Wild Wings Go - East Village, NY
 
-Buffalo Wild Wings GO in East Village, New York was designed by Zelta Design. In the East Village, this new Buffalo Wild Wingo Go location is one of Manhattan's first locations. The dark palette interior and sports artwork can be enjoyed by guests in the seating area. They also offer a convenient grab and go area for mobile orders to be picked up.
+Buffalo Wild Wings GO in East Village, New York was designed by Zelta Design. One of Manhattan's first Buffalo Wild Wings GO locations occupies a narrow inline storefront on First Avenue in the East Village. Navy subway tile lines the order area, a wood-front counter sits below a lit menu board, and a stadium-scene print anchors the entry wall in an otherwise dark palette. A wall of numbered cubbies past the register separates mobile and delivery pickup from the ordering line, so guests grabbing wings to go never cross paths with those eating in.
 
 Address: 225 First Avenue, New York, NY 10003.
 
@@ -653,7 +1126,7 @@ Source: https://www.zeltadesign.com/project/buffalo-wild-wings-go/
 
 ### Dunkin' - Ozone Park, NY
 
-Dunkin' in Ozone Park, Jamaica, New York was designed by Zelta Design. Located in Ozone Park, this Dunkin' and Baskin'-Robbins combo features the latest OMNI finish and has a seating area for guests.
+Dunkin' in Ozone Park, Jamaica, New York was designed by Zelta Design. Freestanding on Rockaway Boulevard in Ozone Park, this Dunkin' and Baskin-Robbins combo has its own parking lot and a wide storefront band naming both brands. Inside, a wall mural names the neighborhood over the pickup counter, with a Baskin-Robbins case and Creature Creations display set apart from the coffee counter and a marked queue line for orders. Stanchions and a mobile pickup sign keep foot traffic organized. Coffee customers and ice cream customers can each find their own line without crowding the same counter.
 
 Address: 94-05 Rockaway Boulevard, Jamaica, NY 11417. Program: Dunkin OMNI. Scope: multi-brand combo.
 
@@ -669,7 +1142,7 @@ Source: https://www.zeltadesign.com/project/popeyes/
 
 ### Dave's Hot Chicken - Brooklyn, NY
 
-Dave's Hot Chicken in Brooklyn, New York was designed by Zelta Design. Another Dave's Hot Chicken popping up in the Big Apple- this time in Brooklyn! This location features custom murals by Splatter Haus. Our favorite element is the multi-level exterior storefront mural.
+Dave's Hot Chicken in Brooklyn, New York was designed by Zelta Design. In Bay Ridge, Brooklyn, this Dave's Hot Chicken takes a ground-floor storefront in a walk-up apartment building on 86th Street. Splatter Haus murals wrap the exterior across two stories, turning the building's upper facade into a bright field of color above the entrance. Inside, the yellow and graphic murals continue by the door, with red stool seating nearby. The oversized exterior artwork gives the shop a presence on the block well beyond its storefront width.
 
 Address: 418 86th Street, Brooklyn, NY 11209.
 
