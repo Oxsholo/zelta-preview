@@ -1,0 +1,57 @@
+# Shared brand artwork sources
+
+Retrieved and reviewed 2026-09-30. Both the public site and private decks use `src/lib/brand-artwork.json`. This records provenance, not a transfer of trademark rights.
+
+35 brands now have genuine vector artwork. Five retain transparent site-only raster fallbacks; decks show a plain brand-name label for those five and never load the raster. Theme-specific labels remain where no readable authentic counterpart was obtained. Full search coverage, rejected files and remaining variants: [deep-search log](../../docs/verification/deck-fixes/logo-search.md).
+
+No artwork was traced or retyped in this work; third-party source provenance is recorded below. PDF and inline-SVG extractions preserve the supplied paths. Single-colour reversals change only the ink colour, as authorized. Auntie Anne’s two-colour reverse matches the brand’s own published white-wordmark artwork, with its orange symbol unchanged.
+
+| Brand | Light / dark assets | Source | Notes |
+|---|---|---|---|
+| 375º Chicken 'N Fries | `375-chicken-n-fries.svg` | [source](https://cdn.prod.website-files.com/649e0377db0777dd0610155f/68f9c8f51b5e1697f87fe3cd_b376b6a46cecdfe4201c4c5eb6f835a1_375-chicnfries-logo-plain.svg) | Unaltered vector from the linked source. |
+| Insomnia Cookies | `insomnia-cookies.svg` | [source](https://insomniacookies.com/static/media/brand-refresh-logo-new.bfdc8a51.svg) | Unaltered vector from the linked source. |
+| Burn Boot Camp | `burn-boot-camp.svg` | [source](https://burnbootcamp.com/logo-228.svg) | Unaltered vector from the linked source. |
+| Jersey Mike's | `jersey-mike-s.svg` | [source](https://www.jerseymikes.com/_nuxt/master-logo.HPKhujUP.svg) | Unaltered vector from the linked source. |
+| Jimmy John's | `jimmy-john-s.svg` | [source](https://upload.wikimedia.org/wikipedia/en/7/7b/Jimmy_John%27s_%28logo%29.svg) | Unaltered vector from the linked source. |
+| Captain Cookie | `captain-cookie-transparent.png` | Existing site artwork: public/brands/logo-capt-cookie-1.png | No complete clean vector obtained after the September 30 deep search; see docs/verification/deck-fixes/logo-search.md for exact sources and rejected candidates. Transparent site-only fallback. Plain brand-name label on light surfaces. |
+| Qdoba | `qdoba.svg` | [source](https://upload.wikimedia.org/wikipedia/commons/9/9c/Qdoba_Logo.svg) | Unaltered vector from the linked source. |
+| Empanada Mama | `empanada-mama-transparent.png` | Existing site artwork: public/brands/empanada-mama-color.png | No complete clean vector obtained after the September 30 deep search; see docs/verification/deck-fixes/logo-search.md for exact sources and rejected candidates. Transparent site-only fallback. |
+| Popeyes | `popeyes.svg` | [source](https://cdn.prod.website-files.com/62e81a6b2171bdd2673e6035/62f2cb7b9aa17f536105f5b6_Popeyes-newsroom-masthead.svg) | Extracted unchanged orange logo paths from newsroom masthead; omitted separate NEWSROOM label. |
+| Ford's Garage | `ford-s-garage-light.svg` / `ford-s-garage.svg` | [source](https://fordsgarageusa.com/wp-content/uploads/2023/05/Ford-logo.svg) | Single-colour counterpart of genuine one-colour source; ink colour only, unchanged paths, per the orchestrator’s September 30 instruction permitting genuine single-colour reversals. |
+| Chick-fil-A | `chick-fil-a.svg` | [source](https://www.chick-fil-a.com/wp-content/uploads/sites/2/2025/04/Chick-fil-A-header-logo.svg) | Unaltered vector from the linked source. |
+| Auntie Anne's | `auntie-anne-s.svg` / `auntie-anne-s-dark.svg` | [source](https://upload.wikimedia.org/wikipedia/en/4/4e/Auntie_Anne%27s_logo.svg); [dark source](https://assets.ctfassets.net/zqt8tllj2cy0/5i0wYg7mD4tboYZza1Y3rC/075565dc9e987930690243eef24ed66d/AA-Web-MediaPage-Logos.zip) | Original vector paths with white lettering, matching the official AUNTIEANNES_LOGO_2COLOR_PRIMARY_WHITEWORDMARK artwork in the newsroom logo ZIP. Orange pretzel unchanged. |
+| Uncle Willie's | `uncle-willie-s-transparent.png` | Existing site artwork: public/brands/uncle-willies-color.png | No complete clean vector obtained after the September 30 deep search; see docs/verification/deck-fixes/logo-search.md for exact sources and rejected candidates. Transparent site-only fallback. Plain brand-name label on light surfaces. |
+| PopUp Bagels | `popup-bagels.svg` / `popup-bagels-dark.svg` | [source](https://a.storyblok.com/f/285951749213749/100x67/9e5f02af8f/popb_logo.svg); [dark source](https://a.storyblok.com/f/285951749213749/73x48/ec3ff69f9b/popb_logo_white.svg) | Unaltered vector from the linked source. |
+| Dave's Hot Chicken | `dave-s-hot-chicken.svg` | [source](https://a.storyblok.com/f/269701/146x150/e8a49359b8/dhc_logo_icon.svg) | Unaltered vector from the linked source. |
+| KFC | `kfc.svg` | [source](https://upload.wikimedia.org/wikipedia/commons/5/5d/KFC_2026_%28wordmark%29.svg) | Unaltered vector from the linked source. |
+| Arby's | `arby-s.svg` | [source](https://www.arbys.com/brands/arbys/logo.svg) | Resolved --col--primary1 to #DC0032, as declared on the official homepage. |
+| Mythos Greek Frozen Yogurt | `mythos-greek-frozen-yogurt.svg` / `mythos-greek-frozen-yogurt-dark.svg` | [source](https://mythosgreek.com/wp-content/uploads/2024/09/mythos_blue.svg) | Single-colour counterpart of genuine one-colour source; ink colour only, unchanged paths, per the orchestrator’s September 30 instruction permitting genuine single-colour reversals. |
+| Wingstop | `wingstop.svg` / `wingstop-dark.svg` | [source](https://upload.wikimedia.org/wikipedia/en/0/0f/Wingstop_logo.svg) | Single-colour counterpart of genuine one-colour source; ink colour only, unchanged paths, per the orchestrator’s September 30 instruction permitting genuine single-colour reversals. |
+| Bonchon | `bonchon.svg` | [source](https://bonchon-brand.files.svdcdn.com/production/Downloads/2021-Bonchon-Press-Kit.pdf?dm=1718377088) | Extracted the 27 unchanged logo paths from page 1; transparent canvas cropped to logo. Official white/red horizontal mark. Plain brand-name label on light surfaces. |
+| Sonic | `sonic.svg` | [source](https://www.sonicdrivein.com/brands/sdi/logo.svg) | Unaltered vector from the linked source. |
+| Little Caesars | `little-caesars.svg` | [source](https://upload.wikimedia.org/wikipedia/en/7/7e/Little_Caesars_logo.svg) | Unaltered vector from the linked source. |
+| Chopt | `chopt-light.svg` / `chopt.svg` | [source](https://www.choptsalad.com/) | Official header inline SVG. Resolve its currentColor to dark ink or white; genuine one-colour paths unchanged. |
+| 7-Eleven | `7-eleven.svg` | [source](https://www.7-eleven.com/assets/img/header/7e-logo-color.svg) | Unaltered vector from the linked source. |
+| Tim Hortons | `tim-hortons.svg` | [source](https://upload.wikimedia.org/wikipedia/commons/b/be/Tim_Hortons_Logo.svg) | Unaltered vector from the linked source. |
+| Taco Bell | `taco-bell.svg` / `taco-bell-dark.svg` | [source](https://upload.wikimedia.org/wikipedia/en/b/b7/Taco_Bell_2023.svg); [dark source](https://kcorp.procuresens.com/Documents/PRDoc/14052024155008171_TacoBellLogoGuide2016Final.pdf) | Reversed white variant follows Taco Bell Logo Guidelines, August 2016, page 5; paths unchanged. |
+| Dunkin' | `dunkin.svg` | [source](https://upload.wikimedia.org/wikipedia/commons/1/14/Dunkin%27_2022.svg) | Unaltered vector from the linked source. |
+| Cinnabon | `cinnabon.svg` | [source](https://upload.wikimedia.org/wikipedia/commons/6/6f/Cinnabon_logo.svg) | Unaltered vector from the linked source. |
+| Dippin' Dots | `dippin-dots-transparent.png` | Existing site artwork: public/brands/logo-dippin-dots-1.png | No complete clean vector obtained after the September 30 deep search; see docs/verification/deck-fixes/logo-search.md for exact sources and rejected candidates. Transparent site-only fallback. |
+| Pizza Hut | `pizza-hut.svg` | [source](https://upload.wikimedia.org/wikipedia/commons/c/c5/Pizza_Hut_2025.svg) | Unaltered vector from the linked source. |
+| Qamaria | `qamaria-transparent.png` | Existing site artwork: public/brands/logo-qamaria.png | No complete clean vector obtained after the September 30 deep search; see docs/verification/deck-fixes/logo-search.md for exact sources and rejected candidates. Transparent site-only fallback. Plain brand-name label on dark surfaces. |
+| Baskin-Robbins | `baskin-robbins.svg` / `baskin-robbins-dark.svg` | [source](https://www.baskinrobbins.com/etc/designs/br/images/header/br-logo-desktop-r.svg); [dark source](https://cdn.dcrypto.com/inspire/Inspire_Brand-Guidelines.pdf) | White single-colour brand symbol extracted as unchanged vector paths from Inspire Brands guide V8, page 15. |
+| Potbelly | `potbelly.svg` | [source](https://upload.wikimedia.org/wikipedia/en/5/5b/Potbelly_Sandwich_Shop_logo.svg) | Unaltered vector from the linked source. |
+| Wendy's | `wendy-s.svg` | [source](https://www.wendys.com/themes/custom/wendys_main/wendys-logo.svg) | Unaltered vector from the linked source. |
+| Burger King | `burger-king.svg` | [source](https://upload.wikimedia.org/wikipedia/commons/c/cc/Burger_King_2020.svg) | Unaltered vector from the linked source. |
+| Buffalo Wild Wings | `buffalo-wild-wings.svg` / `buffalo-wild-wings-dark.svg` | [source](https://www.buffalowildwings.com/brands/bww/logo.svg); [dark source](https://cdn.dcrypto.com/inspire/Inspire_Brand-Guidelines.pdf) | White single-colour brand symbol extracted as unchanged vector paths from Inspire Brands guide V8, page 15. |
+| Zaxby's | `zaxby-s.svg` | [source](https://i.logos-download.com/114649/34221-b19d75af7b7edb039f3a3d2a18a4fe25.svg/Zaxbys_Logo_2024.svg?dl) | Unchanged 2024 mark. Plain brand-name label on dark surfaces. |
+| Doc Popcorn | `doc-popcorn.svg` | [source](https://cdn11.bigcommerce.com/s-n3o8opnri4/stencil/d7419ca0-47c5-013f-c73d-4aba16375bdf/e/90ad0350-680f-013f-e3a6-42d18fa10579/img/doc-logo.svg) | Unaltered vector from the linked source. Plain brand-name label on light surfaces. |
+| Kids United | `kids-united.svg` | [source](https://www.kidsunited.com/) | Unchanged inline footer logo SVG; removed layout classes. White/green official artwork. Plain brand-name label on light surfaces. |
+| The Halal Guys | `the-halal-guys.svg` | [source](https://franchise.thehalalguys.com/wp-content/uploads/2025/05/Single-UNIT-artwork.svg) | Extracted unchanged central logo group from official franchise illustration; omitted surrounding map-pin illustration. |
+
+Source qualifications: Zaxby’s comes from the third-party Logos Download catalog; official domains returned challenge pages. The Inspire Brands guide is hosted by third-party cdn.dcrypto.com. The Taco Bell guide is an older 2016 guide hosted on a procurement portal, used only as reference for the white single-colour treatment. Baskin-Robbins and Buffalo Wild Wings use the guide’s standalone symbol on dark surfaces, while retaining the full logo on light surfaces. The Halal Guys source is franchise marketing artwork, from which the complete central logo group was extracted. Historical transparent PNGs remain unused by the shared catalog where replaced.
+
+Inline SVG retrievals (2026-09-30):
+- `chopt.svg` saved-file SHA-256: `f62cad5f88ffa0c49445faf9ea9e9a2d6d4b22311ae7c5d03a217663e9b19747`.
+- `kids-united.svg` saved-file SHA-256: `5539821f470da847c4d000b297402443fa093577f48804e36e8cc485a4398396`.
+Chopt now uses the current homepage inline mark; the prior static asset was replaced to keep both treatments on identical current paths.

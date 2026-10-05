@@ -15,3 +15,55 @@
 /project/731-summer-avenue﻿-newark  /portfolio/  301
 /project/edgewood-terrace-south-bound-brook  /portfolio/  301
 /project/jadestone-fort-meyers  /portfolio/  301
+
+# Old-site pages with no record in the project vault (data/dropped-projects.json).
+/project/buffalo-wild-wings-go-33-new-scotland-avenue  /portfolio/  301
+/project/daves-hot-chicken-1192-fulton-avenue  /portfolio/  301
+/project/dippin-dots-doc-popcorn-brooklyn  /portfolio/  301
+/project/dunkin  /portfolio/  301
+/project/dunkin-1374-metropolitan-avenue  /portfolio/  301
+/project/dunkin-1393-mccarter-highway  /portfolio/  301
+/project/dunkin-185-greenwich-street  /portfolio/  301
+/project/dunkin-2  /portfolio/  301
+/project/dunkin-2-e-kingsbridge  /portfolio/  301
+/project/dunkin-203-205-w-34th-street  /portfolio/  301
+/project/dunkin-340-broadway  /portfolio/  301
+/project/dunkin-4-cortlandt  /portfolio/  301
+/project/dunkin-6-main-street  /portfolio/  301
+/project/dunkin-brooklyn  /portfolio/  301
+/project/dunkin-sea-cliff  /portfolio/  301
+/project/dunkin-wappingers-falls  /portfolio/  301
+/project/gumption-industry-city  /portfolio/  301
+/project/insomnia-cookies-283-bleeker-street  /portfolio/  301
+/project/pizza-hut-84-23-37th-avenue  /portfolio/  301
+/project/popeyes-brooklyn  /portfolio/  301
+/project/popeyes-queens  /portfolio/  301
+/project/satori-laser-financial-district  /portfolio/  301
+/project/taco-bell-3  /portfolio/  301
+/project/taco-bell-cantina-manhattan  /portfolio/  301
+/project/taco-bell-coney-island  /portfolio/  301
+/project/taco-bell-midtown  /portfolio/  301
+/project/taco-bell-south-brunswick  /portfolio/  301
+/project/wendys  /portfolio/  301
+/project/wendys-39-wal-mart-plaza  /portfolio/  301
+
+# Stores whose only photos predate the remodel (data/library-projects.json, decks: false).
+/project/dunkin-and-baskin-robbins-545-uniondale-avenue  /portfolio/  301
+/project/dunkin-411-route-206  /portfolio/  301
+/project/dunkin-302-us-highway-202  /portfolio/  301
+/project/dunkin-25-route-59  /portfolio/  301
+/project/dunkin-241-turnersburg-highway  /portfolio/  301
+/project/dunkin-2000-west-main-street  /portfolio/  301
+/project/dunkin-1526-newbridge-road  /portfolio/  301
+/project/dunkin-1-front-street  /portfolio/  301
+/project/dunkin-448-broadway  /portfolio/  301
+/project/dunkin-165-pottstown-pike  /portfolio/  301
+/project/dunkin-163-02-cross-bay-boulevard  /portfolio/  301
+/project/dunkin-1011-route-109  /portfolio/  301
+/project/taco-bell-7501-annapolis-road  /portfolio/  301
+/project/taco-bell-6315-oxon-hill-road  /portfolio/  301
+/project/taco-bell-901-st-georges-avenue  /portfolio/  301
+/project/taco-bell-306-highway-36  /portfolio/  301
+/project/taco-bell-1750-middle-country-road  /portfolio/  301
+/project/taco-bell-1200-us-22  /portfolio/  301
+/project/popeyes-1125-east-main-street  /portfolio/  301
