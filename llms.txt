@@ -1,6 +1,6 @@
 # Zelta Design
 
-> Zelta Design is a full-service architecture firm in Nutley, New Jersey, specializing in restaurant and commercial projects. The firm has completed over 1,000 projects for +40 brands and is licensed in 25 states. It handles a project end to end: site survey, schematic design, construction documents, permitting and plan review, code and accessibility compliance, MEP coordination and construction administration.
+> Zelta Design is a full-service architecture firm in Nutley, New Jersey, specializing in restaurant and commercial projects. The firm has completed over 2,500 projects for +40 brands and is licensed in 25 states. It handles a project end to end: site survey, schematic design, construction documents, permitting and plan review, code and accessibility compliance, MEP coordination and construction administration.
 
 ## Key facts
 
@@ -10,27 +10,26 @@
 - Email: hello@zeltadesign.com
 - Principal Architect: Erik Liepins, RA (Owner)
 - Licensed jurisdictions (25): Arkansas, Connecticut, Washington, D.C., Delaware, Florida, Georgia, Iowa, Illinois, Kentucky, Massachusetts, Maryland, Michigan, North Carolina, Nebraska, New Jersey, New York, Ohio, Pennsylvania, South Carolina, Tennessee, Texas, Virginia, Vermont, Wisconsin, West Virginia
-- Completed projects: over 1,000
+- Completed projects: over 2,500
 - Brands served: +40
-- Projects published on this site: 126 (113 with photography)
+- Projects published on this site: 145 (121 with photography)
 - Sector focus: quick-service restaurants, fast casual, cafes, and commercial tenant fit-outs
 
 ## Core pages
 
 - [Home](https://www.zeltadesign.com/): what the firm does and the headline numbers.
-- [Portfolio](https://www.zeltadesign.com/portfolio/): all 126 published projects, indexed by brand and state.
+- [Portfolio](https://www.zeltadesign.com/portfolio/): all 145 published projects, indexed by brand and state.
 - [Brands](https://www.zeltadesign.com/brands/): the 7 brands with a full project portfolio on this site.
 - [Where We Work](https://www.zeltadesign.com/where-we-work/): the 25 licensed jurisdictions and project counts by state.
 - [Capabilities](https://www.zeltadesign.com/services/): services, process, and project enquiries.
 - [About](https://www.zeltadesign.com/about/): the firm, the team and how projects run.
-- [Site Visits](https://www.zeltadesign.com/our-aircraft/): how the team reaches sites outside New Jersey.
 - [Contact](https://www.zeltadesign.com/contact/): start a project.
 
 ## Brand portfolios
 
-- [Dunkin'](https://www.zeltadesign.com/brands/dunkin/): 45 project locations across 3 states.
-- [Taco Bell](https://www.zeltadesign.com/brands/taco-bell/): 25 project locations across 3 states.
-- [Popeyes](https://www.zeltadesign.com/brands/popeyes/): 9 project locations across 2 states.
+- [Dunkin'](https://www.zeltadesign.com/brands/dunkin/): 57 project locations across 6 states.
+- [Taco Bell](https://www.zeltadesign.com/brands/taco-bell/): 31 project locations across 4 states.
+- [Popeyes](https://www.zeltadesign.com/brands/popeyes/): 10 project locations across 3 states.
 - [Dave's Hot Chicken](https://www.zeltadesign.com/brands/daves-hot-chicken/): 13 project locations across 4 states.
 - [Buffalo Wild Wings GO](https://www.zeltadesign.com/brands/buffalo-wild-wings-go/): 3 project locations across 1 states.
 - [Wendy's](https://www.zeltadesign.com/brands/wendys/): 3 project locations across 2 states.
@@ -38,12 +37,12 @@
 
 ## Brand and state portfolios
 
-- [Dunkin' in New York](https://www.zeltadesign.com/brands/dunkin/new-york/): 38 locations.
-- [Taco Bell in New Jersey](https://www.zeltadesign.com/brands/taco-bell/new-jersey/): 12 locations.
-- [Taco Bell in New York](https://www.zeltadesign.com/brands/taco-bell/new-york/): 12 locations.
+- [Dunkin' in New York](https://www.zeltadesign.com/brands/dunkin/new-york/): 45 locations.
+- [Taco Bell in New Jersey](https://www.zeltadesign.com/brands/taco-bell/new-jersey/): 15 locations.
+- [Taco Bell in New York](https://www.zeltadesign.com/brands/taco-bell/new-york/): 13 locations.
+- [Dunkin' in New Jersey](https://www.zeltadesign.com/brands/dunkin/new-jersey/): 8 locations.
 - [Dave's Hot Chicken in New York](https://www.zeltadesign.com/brands/daves-hot-chicken/new-york/): 7 locations.
 - [Popeyes in New York](https://www.zeltadesign.com/brands/popeyes/new-york/): 7 locations.
-- [Dunkin' in New Jersey](https://www.zeltadesign.com/brands/dunkin/new-jersey/): 6 locations.
 - [Buffalo Wild Wings GO in New York](https://www.zeltadesign.com/brands/buffalo-wild-wings-go/new-york/): 3 locations.
 - [Dave's Hot Chicken in South Carolina](https://www.zeltadesign.com/brands/daves-hot-chicken/south-carolina/): 2 locations.
 - [Dave's Hot Chicken in North Carolina](https://www.zeltadesign.com/brands/daves-hot-chicken/north-carolina/): 2 locations.
