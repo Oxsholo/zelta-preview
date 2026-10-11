@@ -20,7 +20,7 @@
 - [Home](https://www.zeltadesign.com/): what the firm does and the headline numbers.
 - [Portfolio](https://www.zeltadesign.com/portfolio/): all 145 published projects, indexed by brand and state.
 - [Brands](https://www.zeltadesign.com/brands/): the 7 brands with a full project portfolio on this site.
-- [Where We Work](https://www.zeltadesign.com/where-we-work/): the 25 licensed jurisdictions and project counts by state.
+- [Where We Work](https://www.zeltadesign.com/where-we-work/): the 25 jurisdictions where the firm is licensed.
 - [Capabilities](https://www.zeltadesign.com/services/): services, process, and project enquiries.
 - [About](https://www.zeltadesign.com/about/): the firm, the team and how projects run.
 - [Contact](https://www.zeltadesign.com/contact/): start a project.
@@ -31,7 +31,7 @@
 - [Taco Bell](https://www.zeltadesign.com/brands/taco-bell/): 31 project locations across 4 states.
 - [Popeyes](https://www.zeltadesign.com/brands/popeyes/): 10 project locations across 3 states.
 - [Dave's Hot Chicken](https://www.zeltadesign.com/brands/daves-hot-chicken/): 13 project locations across 4 states.
-- [Buffalo Wild Wings GO](https://www.zeltadesign.com/brands/buffalo-wild-wings-go/): 3 project locations across 1 states.
+- [Buffalo Wild Wings GO](https://www.zeltadesign.com/brands/buffalo-wild-wings-go/): 3 project locations across 1 state.
 - [Wendy's](https://www.zeltadesign.com/brands/wendys/): 3 project locations across 2 states.
 - [PopUp Bagels](https://www.zeltadesign.com/brands/popup-bagels/): 3 project locations across 2 states.
 
