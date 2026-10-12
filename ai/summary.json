@@ -48,36 +48,6 @@
   "completedProjects": "Over 2,500",
   "brandsServed": "+40",
   "publishedProjects": 145,
-  "brandPortfolios": [
-    {
-      "name": "Dunkin'",
-      "url": "https://www.zeltadesign.com/brands/dunkin/"
-    },
-    {
-      "name": "Taco Bell",
-      "url": "https://www.zeltadesign.com/brands/taco-bell/"
-    },
-    {
-      "name": "Popeyes",
-      "url": "https://www.zeltadesign.com/brands/popeyes/"
-    },
-    {
-      "name": "Dave's Hot Chicken",
-      "url": "https://www.zeltadesign.com/brands/daves-hot-chicken/"
-    },
-    {
-      "name": "Buffalo Wild Wings GO",
-      "url": "https://www.zeltadesign.com/brands/buffalo-wild-wings-go/"
-    },
-    {
-      "name": "Wendy's",
-      "url": "https://www.zeltadesign.com/brands/wendys/"
-    },
-    {
-      "name": "PopUp Bagels",
-      "url": "https://www.zeltadesign.com/brands/popup-bagels/"
-    }
-  ],
   "keyPages": {
     "portfolio": "https://www.zeltadesign.com/portfolio/",
     "capabilities": "https://www.zeltadesign.com/services/",
