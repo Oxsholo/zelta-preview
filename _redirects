@@ -15,3 +15,7 @@
 /project/731-summer-avenue﻿-newark  /portfolio/  301
 /project/edgewood-terrace-south-bound-brook  /portfolio/  301
 /project/jadestone-fort-meyers  /portfolio/  301
+
+# Old WordPress addresses with inbound links.
+/wp-content/uploads/*  /portfolio/  301
+/sitemap_index.xml  /sitemap-index.xml  301

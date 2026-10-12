@@ -1,0 +1,141 @@
+{
+  "name": "Zelta Design",
+  "description": "Zelta Design is a full-service architecture firm in Nutley, New Jersey, specializing in restaurant and commercial projects. The firm has completed over 2,500 projects for +40 brands and works nationwide, licensed in 25 states and adding states as clients need them. It handles a project end to end: site survey, schematic design, construction documents, permitting and plan review, code and accessibility compliance, MEP coordination and construction administration.",
+  "url": "https://www.zeltadesign.com/services/",
+  "serviceType": "Restaurant and commercial architecture",
+  "capabilities": [
+    {
+      "name": "Architecture",
+      "description": "Space planning, layout options and renderings, followed by plans, elevations and detailed construction documents."
+    },
+    {
+      "name": "Permitting",
+      "description": "Applications, submissions and approval tracking. We respond to local plan-review comments and manage resubmittals."
+    },
+    {
+      "name": "Code Compliance",
+      "description": "Building, fire, health and accessibility requirements reviewed as part of the design."
+    },
+    {
+      "name": "Coordination",
+      "description": "Mechanical, electrical, plumbing, structural and site design coordinated with the architectural documents."
+    }
+  ],
+  "process": [
+    {
+      "step": "01",
+      "name": "Survey",
+      "description": "Existing conditions, landlord drawings, site verification."
+    },
+    {
+      "step": "02",
+      "name": "Schematic Design",
+      "description": "Test fits, layout options and renderings, code analysis up front."
+    },
+    {
+      "step": "03",
+      "name": "Documents",
+      "description": "Sealed documents coordinated across every discipline."
+    },
+    {
+      "step": "04",
+      "name": "Permit",
+      "description": "Submission, comments, resubmittal and approval."
+    },
+    {
+      "step": "05",
+      "name": "Construction",
+      "description": "RFI response, submittals, inspections and closeout."
+    }
+  ],
+  "areaServed": [
+    "Alabama",
+    "Arizona",
+    "Arkansas",
+    "Colorado",
+    "Connecticut",
+    "Delaware",
+    "District of Columbia",
+    "Florida",
+    "Georgia",
+    "Idaho",
+    "Illinois",
+    "Indiana",
+    "Iowa",
+    "Kansas",
+    "Kentucky",
+    "Louisiana",
+    "Maine",
+    "Maryland",
+    "Massachusetts",
+    "Michigan",
+    "Minnesota",
+    "Mississippi",
+    "Missouri",
+    "Montana",
+    "Nebraska",
+    "Nevada",
+    "New Hampshire",
+    "New Jersey",
+    "New Mexico",
+    "New York",
+    "North Carolina",
+    "North Dakota",
+    "Ohio",
+    "Oklahoma",
+    "Oregon",
+    "Pennsylvania",
+    "Rhode Island",
+    "South Carolina",
+    "South Dakota",
+    "Tennessee",
+    "Texas",
+    "Utah",
+    "Vermont",
+    "Virginia",
+    "Washington",
+    "West Virginia",
+    "Wisconsin",
+    "Wyoming"
+  ],
+  "licensedIn": [
+    "Arkansas",
+    "Connecticut",
+    "Washington, D.C.",
+    "Delaware",
+    "Florida",
+    "Georgia",
+    "Iowa",
+    "Illinois",
+    "Kentucky",
+    "Massachusetts",
+    "Maryland",
+    "Michigan",
+    "North Carolina",
+    "Nebraska",
+    "New Jersey",
+    "New York",
+    "Ohio",
+    "Pennsylvania",
+    "South Carolina",
+    "Tennessee",
+    "Texas",
+    "Virginia",
+    "Vermont",
+    "Wisconsin",
+    "West Virginia"
+  ],
+  "provider": {
+    "name": "Zelta Design",
+    "url": "https://www.zeltadesign.com/contact/",
+    "telephone": "+1-973-933-6636",
+    "email": "hello@zeltadesign.com",
+    "address": {
+      "streetAddress": "139 Chestnut Street",
+      "addressLocality": "Nutley",
+      "addressRegion": "NJ",
+      "postalCode": "07110",
+      "addressCountry": "US"
+    }
+  }
+}
