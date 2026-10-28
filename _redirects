@@ -27,6 +27,11 @@
 /project/jadestone-fort-meyers  /portfolio/  301
 /project/jadestone-fort-meyers/  /portfolio/  301
 
+# Email signature images (public/email-signature/).
+/wp-content/uploads/2020/12/logo-2x.png  /email-signature/logo-2x.png  200
+/wp-content/uploads/2020/12/icon-ig-2x.png  /email-signature/icon-ig-2x.png  200
+/wp-content/uploads/2020/12/icon-li-2x.png  /email-signature/icon-li-2x.png  200
+
 # Old WordPress addresses with inbound links.
 /wp-content/uploads/*  /portfolio/  301
 /sitemap_index.xml  /sitemap-index.xml  301
@@ -93,36 +98,18 @@
 
 # Old WordPress listing pages.
 /project_type/*  /portfolio/  301
+/project_category/taco-bell  /brands/taco-bell/  301
+/project_category/taco-bell/  /brands/taco-bell/  301
+/project_category/dunkin  /brands/dunkin/  301
+/project_category/dunkin/  /brands/dunkin/  301
+/project_category/popeyes  /brands/popeyes/  301
+/project_category/popeyes/  /brands/popeyes/  301
 /project_category/*  /brands/  301
 /our-aircraft  /where-we-work/  301
 /our-aircraft/  /where-we-work/  301
-/brands/dunkin  /brands/  301
-/brands/dunkin/  /brands/  301
-/brands/dunkin/*  /brands/  301
-/brands/taco-bell  /brands/  301
-/brands/taco-bell/  /brands/  301
-/brands/taco-bell/*  /brands/  301
-/brands/popeyes  /brands/  301
-/brands/popeyes/  /brands/  301
-/brands/popeyes/*  /brands/  301
-/brands/daves-hot-chicken  /brands/  301
-/brands/daves-hot-chicken/  /brands/  301
-/brands/daves-hot-chicken/*  /brands/  301
-/brands/buffalo-wild-wings-go  /brands/  301
-/brands/buffalo-wild-wings-go/  /brands/  301
-/brands/buffalo-wild-wings-go/*  /brands/  301
-/brands/wendys  /brands/  301
-/brands/wendys/  /brands/  301
-/brands/wendys/*  /brands/  301
 /brands/gumption-coffee  /brands/  301
 /brands/gumption-coffee/  /brands/  301
 /brands/gumption-coffee/*  /brands/  301
-/brands/popup-bagels  /brands/  301
-/brands/popup-bagels/  /brands/  301
-/brands/popup-bagels/*  /brands/  301
-/brands/burger-king  /brands/  301
-/brands/burger-king/  /brands/  301
-/brands/burger-king/*  /brands/  301
 /brands/jersey-mikes  /brands/  301
 /brands/jersey-mikes/  /brands/  301
 /brands/jersey-mikes/*  /brands/  301
@@ -135,6 +122,38 @@
 /brands/empanada-mama  /brands/  301
 /brands/empanada-mama/  /brands/  301
 /brands/empanada-mama/*  /brands/  301
+/brands/dunkin/new-york  /brands/dunkin/  301
+/brands/dunkin/new-york/  /brands/dunkin/  301
+/brands/taco-bell/new-jersey  /brands/taco-bell/  301
+/brands/taco-bell/new-jersey/  /brands/taco-bell/  301
+/brands/taco-bell/new-york  /brands/taco-bell/  301
+/brands/taco-bell/new-york/  /brands/taco-bell/  301
+/brands/dunkin/new-jersey  /brands/dunkin/  301
+/brands/dunkin/new-jersey/  /brands/dunkin/  301
+/brands/daves-hot-chicken/new-york  /brands/daves-hot-chicken/  301
+/brands/daves-hot-chicken/new-york/  /brands/daves-hot-chicken/  301
+/brands/popeyes/new-york  /brands/popeyes/  301
+/brands/popeyes/new-york/  /brands/popeyes/  301
+/brands/buffalo-wild-wings-go/new-york  /brands/buffalo-wild-wings-go/  301
+/brands/buffalo-wild-wings-go/new-york/  /brands/buffalo-wild-wings-go/  301
+/brands/daves-hot-chicken/south-carolina  /brands/daves-hot-chicken/  301
+/brands/daves-hot-chicken/south-carolina/  /brands/daves-hot-chicken/  301
+/brands/daves-hot-chicken/north-carolina  /brands/daves-hot-chicken/  301
+/brands/daves-hot-chicken/north-carolina/  /brands/daves-hot-chicken/  301
+/brands/popup-bagels/florida  /brands/popup-bagels/  301
+/brands/popup-bagels/florida/  /brands/popup-bagels/  301
+/brands/burger-king/new-jersey  /brands/burger-king/  301
+/brands/burger-king/new-jersey/  /brands/burger-king/  301
+/brands/wendys/new-jersey  /brands/wendys/  301
+/brands/wendys/new-jersey/  /brands/wendys/  301
+/brands/empanada-mama/new-york  /brands/  301
+/brands/empanada-mama/new-york/  /brands/  301
+/brands/daves-hot-chicken/new-jersey  /brands/daves-hot-chicken/  301
+/brands/daves-hot-chicken/new-jersey/  /brands/daves-hot-chicken/  301
+/brands/popeyes/new-jersey  /brands/popeyes/  301
+/brands/popeyes/new-jersey/  /brands/popeyes/  301
+/brands/gumption-coffee/new-york  /brands/  301
+/brands/gumption-coffee/new-york/  /brands/  301
 /project/731-summer-avenue%EF%BB%BF-newark  /portfolio/  301
 /project/731-summer-avenue%EF%BB%BF-newark/  /portfolio/  301
 /project/731-summer-avenue%ef%bb%bf-newark  /portfolio/  301

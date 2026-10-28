@@ -20,11 +20,26 @@
 
 - [Home](https://www.zeltadesign.com/): what the firm does and the headline numbers.
 - [Portfolio](https://www.zeltadesign.com/portfolio/): all 145 published projects, indexed by brand and state.
-- [Brands](https://www.zeltadesign.com/brands/): the brands we work with.
+- [Brands](https://www.zeltadesign.com/brands/): the brands we work with; the ones we work with most have a page of their own.
 - [Where We Work](https://www.zeltadesign.com/where-we-work/): the 25 jurisdictions where the firm is licensed.
 - [Capabilities](https://www.zeltadesign.com/services/): services, process, and project enquiries.
+- [Drive-Thru Restaurant Design](https://www.zeltadesign.com/services/drive-thru-design/): Drive-thru restaurant design: lane and stacking layout, menu board and site plan approvals, new buildings, remodels and drive-thru additions.
+- [Restaurant Remodels and Reimages](https://www.zeltadesign.com/services/restaurant-remodels/): Restaurant remodels and brand reimages, designed to keep the store trading: phasing, drive-thru and dining room work, fire, health and permit approvals.
+- [Restaurant Permits and Plan Review](https://www.zeltadesign.com/services/restaurant-permits/): Restaurant permit filings, plan review comments and resubmittals: building, health and zoning approvals handled by the architect who drew the set.
+- [Restaurant Construction Documents](https://www.zeltadesign.com/services/construction-documents/): Sealed restaurant construction documents: architectural and engineering sheets coordinated into one permit and construction set, drawn from the real site.
 - [About](https://www.zeltadesign.com/about/): the firm, the team and how projects run.
 - [Contact](https://www.zeltadesign.com/contact/): start a project.
+
+## Brand portfolios
+
+- [Dunkin'](https://www.zeltadesign.com/brands/dunkin/): our Dunkin' work, with photographs of finished stores.
+- [Taco Bell](https://www.zeltadesign.com/brands/taco-bell/): our Taco Bell work, with photographs of finished stores.
+- [Popeyes](https://www.zeltadesign.com/brands/popeyes/): our Popeyes work, with photographs of finished stores.
+- [Dave's Hot Chicken](https://www.zeltadesign.com/brands/daves-hot-chicken/): our Dave's Hot Chicken work, with photographs of finished stores.
+- [Buffalo Wild Wings GO](https://www.zeltadesign.com/brands/buffalo-wild-wings-go/): our Buffalo Wild Wings GO work, with photographs of finished stores.
+- [Wendy's](https://www.zeltadesign.com/brands/wendys/): our Wendy's work, with photographs of finished stores.
+- [PopUp Bagels](https://www.zeltadesign.com/brands/popup-bagels/): our PopUp Bagels work, with photographs of finished stores.
+- [Burger King](https://www.zeltadesign.com/brands/burger-king/): our Burger King work, with photographs of finished stores.
 
 ## Full detail
 
